@@ -6800,6 +6800,10 @@
     "Orange ish": {
       "value": "#ffdac0",
       "type": "color"
+    },
+    "width": {
+      "value": "1px",
+      "type": "borderRadius"
     }
   },
   "two": {

@@ -6801,5 +6801,11 @@
       "value": "#ffdac0",
       "type": "color"
     }
+  },
+  "two": {
+    "orange ish": {
+      "value": "#ffb600",
+      "type": "color"
+    }
   }
 }

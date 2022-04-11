@@ -6796,6 +6796,10 @@
         "item": "font-family"
       },
       "type": "other"
+    },
+    "Orange ish": {
+      "value": "#ffdac0",
+      "type": "color"
     }
   }
 }

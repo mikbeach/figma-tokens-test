@@ -1,6 +1,7 @@
 
-[
-  'global': {
+{
+  global: [
+  {
     "name": "Ds Color Palette Black",
     "token": "color.palette.black",
     "value": "#000000",
@@ -7165,4 +7166,27 @@
     },
     "type": "color"
   },
+], 
+argos: [
+  {
+    "name": "Ds Color Palette Black",
+    "token": "color.palette.black",
+    "value": "#000000",
+    "brand": "global",
+    "isSource": true,
+    "original": "#000000",
+    "isColor": true,
+    "path": [
+      "color",
+      "palette",
+      "black"
+    ],
+    "attributes": {
+      "category": "color",
+      "type": "palette",
+      "item": "black"
+    },
+    "type": "color"
+  },
+]
 ]

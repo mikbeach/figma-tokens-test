@@ -1,8 +1,8 @@
 {
   "global": {
     "Black": {
-      "value": "#000000",
-      "type": "Color"
+      "value": "#ffffff",
+      "type": "implicit"
     },
     "Blue 100": {
       "value": "#0e4174",

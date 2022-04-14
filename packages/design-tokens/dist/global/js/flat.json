@@ -1,2484 +1,1681 @@
 
 {
-  "tu": {
-    "Black": {
-        "name": "Black",
-        "token": "Black",
-        "value": "#000000",
-        "type": "color"
-    },
-    "Blue 100": {
-        "name": "Blue 100",
-        "token": "Blue.100",
-        "value": "#0e4174",
-        "type": "color"
-    },
-    "Blue 90": {
-        "name": "Blue 90",
-        "token": "Blue.90",
-        "value": "#114e8b",
-        "type": "color"
-    },
-    "Blue 80": {
-        "name": "Blue 80",
-        "token": "Blue.80",
-        "value": "#135ca3",
-        "type": "color"
-    },
-    "Blue 70": {
-        "name": "Blue 70",
-        "token": "Blue.70",
-        "value": "#1669ba",
-        "type": "color"
-    },
-    "Blue 60": {
-        "name": "Blue 60",
-        "token": "Blue.60",
-        "value": "#1976d2",
-        "type": "color"
-    },
-    "Blue 50": {
-        "name": "Blue 50",
-        "token": "Blue.50",
-        "value": "#428fda",
-        "type": "color"
-    },
-    "Blue 40": {
-        "name": "Blue 40",
-        "token": "Blue.40",
-        "value": "#6ca7e2",
-        "type": "color"
-    },
-    "Blue 30": {
-        "name": "Blue 30",
-        "token": "Blue.30",
-        "value": "#95c0ea",
-        "type": "color"
-    },
-    "Blue 20": {
-        "name": "Blue 20",
-        "token": "Blue.20",
-        "value": "#bfd9f2",
-        "type": "color"
-    },
-    "Blue 10": {
-        "name": "Blue 10",
-        "token": "Blue.10",
-        "value": "#e8f1fb",
-        "type": "color"
-    },
-    "Brand 1": {
-        "name": "Brand 1",
-        "token": "Brand.1",
-        "value": "#000000",
-        "type": "color"
-    },
-    "Brand 1 Highlight": {
-        "name": "Brand 1 Highlight",
-        "token": "Brand.1.Highlight",
-        "value": "#404040",
-        "type": "color"
-    },
-    "Brand 1 Lowlight": {
-        "name": "Brand 1 Lowlight",
-        "token": "Brand.1.Lowlight",
-        "value": "#f2f2f2",
-        "type": "color"
-    },
-    "Brand 2": {
-        "name": "Brand 2",
-        "token": "Brand.2",
-        "value": "#ffffff",
-        "type": "color"
-    },
-    "Brand 2 Highlight": {
-        "name": "Brand 2 Highlight",
-        "token": "Brand.2.Highlight",
-        "value": "#f2f2f2",
-        "type": "color"
-    },
-    "Brand 2 Lowlight": {
-        "name": "Brand 2 Lowlight",
-        "token": "Brand.2.Lowlight",
-        "value": "#f2f2f2",
-        "type": "color"
-    },
-    "Green 100": {
-        "name": "Green 100",
-        "token": "Green.100",
-        "value": "#19451c",
-        "type": "color"
-    },
-    "Green 90": {
-        "name": "Green 90",
-        "token": "Green.90",
-        "value": "#1f5321",
-        "type": "color"
-    },
-    "Green 80": {
-        "name": "Green 80",
-        "token": "Green.80",
-        "value": "#246127",
-        "type": "color"
-    },
-    "Green 70": {
-        "name": "Green 70",
-        "token": "Green.70",
-        "value": "#296f2c",
-        "type": "color"
-    },
-    "Green 60": {
-        "name": "Green 60",
-        "token": "Green.60",
-        "value": "#2e7d32",
-        "type": "color"
-    },
-    "Green 50": {
-        "name": "Green 50",
-        "token": "Green.50",
-        "value": "#549457",
-        "type": "color"
-    },
-    "Green 40": {
-        "name": "Green 40",
-        "token": "Green.40",
-        "value": "#79ac7c",
-        "type": "color"
-    },
-    "Green 30": {
-        "name": "Green 30",
-        "token": "Green.30",
-        "value": "#9fc3a1",
-        "type": "color"
-    },
-    "Green 20": {
-        "name": "Green 20",
-        "token": "Green.20",
-        "value": "#c5dbc6",
-        "type": "color"
-    },
-    "Green 10": {
-        "name": "Green 10",
-        "token": "Green.10",
-        "value": "#eaf2eb",
-        "type": "color"
-    },
-    "Grey 100": {
-        "name": "Grey 100",
-        "token": "Grey.100",
-        "value": "#0d0d0d",
-        "type": "color"
-    },
-    "Grey 90": {
-        "name": "Grey 90",
-        "token": "Grey.90",
-        "value": "#262626",
-        "type": "color"
-    },
-    "Grey 80": {
-        "name": "Grey 80",
-        "token": "Grey.80",
-        "value": "#404040",
-        "type": "color"
-    },
-    "Grey 70": {
-        "name": "Grey 70",
-        "token": "Grey.70",
-        "value": "#595959",
-        "type": "color"
-    },
-    "Grey 60": {
-        "name": "Grey 60",
-        "token": "Grey.60",
-        "value": "#737373",
-        "type": "color"
-    },
-    "Grey 50": {
-        "name": "Grey 50",
-        "token": "Grey.50",
-        "value": "#8c8c8c",
-        "type": "color"
-    },
-    "Grey 40": {
-        "name": "Grey 40",
-        "token": "Grey.40",
-        "value": "#a6a6a6",
-        "type": "color"
-    },
-    "Grey 30": {
-        "name": "Grey 30",
-        "token": "Grey.30",
-        "value": "#bfbfbf",
-        "type": "color"
-    },
-    "Grey 20": {
-        "name": "Grey 20",
-        "token": "Grey.20",
-        "value": "#d8d8d8",
-        "type": "color"
-    },
-    "Grey 10": {
-        "name": "Grey 10",
-        "token": "Grey.10",
-        "value": "#f2f2f2",
-        "type": "color"
-    },
-    "Blue": {
-        "name": "Blue",
-        "token": "Blue",
-        "value": "#1976d2",
-        "type": "color"
-    },
-    "Green": {
-        "name": "Green",
-        "token": "Green",
-        "value": "#2e7d32",
-        "type": "color"
-    },
-    "Red": {
-        "name": "Red",
-        "token": "Red",
-        "value": "#e53212",
-        "type": "color"
-    },
-    "Yellow": {
-        "name": "Yellow",
-        "token": "Yellow",
-        "value": "#ffd000",
-        "type": "color"
-    },
-    "Red 100": {
-        "name": "Red 100",
-        "token": "Red.100",
-        "value": "#750000",
-        "type": "color"
-    },
-    "Red 90": {
-        "name": "Red 90",
-        "token": "Red.90",
-        "value": "#8d0000",
-        "type": "color"
-    },
-    "Red 80": {
-        "name": "Red 80",
-        "token": "Red.80",
-        "value": "#a50000",
-        "type": "color"
-    },
-    "Red 70": {
-        "name": "Red 70",
-        "token": "Red.70",
-        "value": "#bd0000",
-        "type": "color"
-    },
-    "Red 60": {
-        "name": "Red 60",
-        "token": "Red.60",
-        "value": "#e53212",
-        "type": "color"
-    },
-    "Red 50": {
-        "name": "Red 50",
-        "token": "Red.50",
-        "value": "#ec664e",
-        "type": "color"
-    },
-    "Red 40": {
-        "name": "Red 40",
-        "token": "Red.40",
-        "value": "#f29888",
-        "type": "color"
-    },
-    "Red 30": {
-        "name": "Red 30",
-        "token": "Red.30",
-        "value": "#f8ccc4",
-        "type": "color"
-    },
-    "Red 20": {
-        "name": "Red 20",
-        "token": "Red.20",
-        "value": "#f3b8b8",
-        "type": "color"
-    },
-    "Red 10": {
-        "name": "Red 10",
-        "token": "Red.10",
-        "value": "#fbe6e6",
-        "type": "color"
-    },
-    "White": {
-        "name": "White",
-        "token": "White",
-        "value": "#ffffff",
-        "type": "color"
-    },
-    "Yellow 100": {
-        "name": "Yellow 100",
-        "token": "Yellow.100",
-        "value": "#8c7600",
-        "type": "color"
-    },
-    "Yellow 90": {
-        "name": "Yellow 90",
-        "token": "Yellow.90",
-        "value": "#a98e00",
-        "type": "color"
-    },
-    "Yellow 80": {
-        "name": "Yellow 80",
-        "token": "Yellow.80",
-        "value": "#c6a600",
-        "type": "color"
-    },
-    "Yellow 70": {
-        "name": "Yellow 70",
-        "token": "Yellow.70",
-        "value": "#e2be00",
-        "type": "color"
-    },
-    "Yellow 60": {
-        "name": "Yellow 60",
-        "token": "Yellow.60",
-        "value": "#ffd000",
-        "type": "color"
-    },
-    "Yellow 50": {
-        "name": "Yellow 50",
-        "token": "Yellow.50",
-        "value": "#ffdc40",
-        "type": "color"
-    },
-    "Yellow 40": {
-        "name": "Yellow 40",
-        "token": "Yellow.40",
-        "value": "#ffe77f",
-        "type": "color"
-    },
-    "Yellow 30": {
-        "name": "Yellow 30",
-        "token": "Yellow.30",
-        "value": "#fff3bf",
-        "type": "color"
-    },
-    "Yellow 20": {
-        "name": "Yellow 20",
-        "token": "Yellow.20",
-        "value": "#fff4b8",
-        "type": "color"
-    },
-    "Yellow 10": {
-        "name": "Yellow 10",
-        "token": "Yellow.10",
-        "value": "#fffbe6",
-        "type": "color"
-    },
-    "Black 50": {
-        "name": "Black 50",
-        "token": "Black.50",
-        "value": "#404040",
-        "type": "color"
-    },
-    "Black 60": {
-        "name": "Black 60",
-        "token": "Black.60",
-        "value": "#000000",
-        "type": "color"
-    },
-    "Dark Blue 30": {
-        "name": "Dark Blue 30",
-        "token": "Dark.Blue.30",
-        "value": "#c5cad0",
-        "type": "color"
-    },
-    "Dark Blue 40": {
-        "name": "Dark Blue 40",
-        "token": "Dark.Blue.40",
-        "value": "#8c94a1",
-        "type": "color"
-    },
-    "Dark Blue 50": {
-        "name": "Dark Blue 50",
-        "token": "Dark.Blue.50",
-        "value": "#535f73",
-        "type": "color"
-    },
-    "Dark Blue 60": {
-        "name": "Dark Blue 60",
-        "token": "Dark.Blue.60",
-        "value": "#192a44",
-        "type": "color"
-    },
-    "Strong Blue 30": {
-        "name": "Strong Blue 30",
-        "token": "Strong.Blue.30",
-        "value": "#d9e1ef",
-        "type": "color"
-    },
-    "Strong Blue 40": {
-        "name": "Strong Blue 40",
-        "token": "Strong.Blue.40",
-        "value": "#b3c3e0",
-        "type": "color"
-    },
-    "Strong Blue 50": {
-        "name": "Strong Blue 50",
-        "token": "Strong.Blue.50",
-        "value": "#8da5d0",
-        "type": "color"
-    },
-    "Strong Blue 60": {
-        "name": "Strong Blue 60",
-        "token": "Strong.Blue.60",
-        "value": "#6787c1",
-        "type": "color"
-    },
-    "Faux Malachite 30": {
-        "name": "Faux Malachite 30",
-        "token": "Faux.Malachite.30",
-        "value": "#e3f1ea",
-        "type": "color"
-    },
-    "Faux Malachite 40": {
-        "name": "Faux Malachite 40",
-        "token": "Faux.Malachite.40",
-        "value": "#c7e4d5",
-        "type": "color"
-    },
-    "Faux Malachite 50": {
-        "name": "Faux Malachite 50",
-        "token": "Faux.Malachite.50",
-        "value": "#aad6c0",
-        "type": "color"
-    },
-    "Faux Malachite 60": {
-        "name": "Faux Malachite 60",
-        "token": "Faux.Malachite.60",
-        "value": "#8ec9ab",
-        "type": "color"
-    },
-    "Black Light": {
-        "name": "Black Light",
-        "token": "Black.Light",
-        "value": "#404040",
-        "type": "color"
-    },
-    "White Dark": {
-        "name": "White Dark",
-        "token": "White.Dark",
-        "value": "#f2f2f2",
-        "type": "color"
-    },
-    "Pink 30": {
-        "name": "Pink 30",
-        "token": "Pink.30",
-        "value": "#f8bfdc",
-        "type": "color"
-    },
-    "Pink 40": {
-        "name": "Pink 40",
-        "token": "Pink.40",
-        "value": "#f27fba",
-        "type": "color"
-    },
-    "Pink 50": {
-        "name": "Pink 50",
-        "token": "Pink.50",
-        "value": "#ec4098",
-        "type": "color"
-    },
-    "Pink 60": {
-        "name": "Pink 60",
-        "token": "Pink.60",
-        "value": "#e50075",
-        "type": "color"
-    },
-    "Selective Yellow 30": {
-        "name": "Selective Yellow 30",
-        "token": "Selective.Yellow.30",
-        "value": "#fff0cc",
-        "type": "color"
-    },
-    "Selective Yellow 40": {
-        "name": "Selective Yellow 40",
-        "token": "Selective.Yellow.40",
-        "value": "#fee299",
-        "type": "color"
-    },
-    "Selective Yellow 50": {
-        "name": "Selective Yellow 50",
-        "token": "Selective.Yellow.50",
-        "value": "#fdd366",
-        "type": "color"
-    },
-    "Selective Yellow 60": {
-        "name": "Selective Yellow 60",
-        "token": "Selective.Yellow.60",
-        "value": "#fdc533",
-        "type": "color"
-    },
-    "Soft Red 30": {
-        "name": "Soft Red 30",
-        "token": "Soft.Red.30",
-        "value": "#f9d9d7",
-        "type": "color"
-    },
-    "Soft Red 40": {
-        "name": "Soft Red 40",
-        "token": "Soft.Red.40",
-        "value": "#f3b2ae",
-        "type": "color"
-    },
-    "Soft Red 50": {
-        "name": "Soft Red 50",
-        "token": "Soft.Red.50",
-        "value": "#ec8b85",
-        "type": "color"
-    },
-    "Soft Red 60": {
-        "name": "Soft Red 60",
-        "token": "Soft.Red.60",
-        "value": "#e6655d",
-        "type": "color"
-    },
-    "White 60": {
-        "name": "White 60",
-        "token": "White.60",
-        "value": "#ffffff",
-        "type": "color"
-    },
-    "White 70": {
-        "name": "White 70",
-        "token": "White.70",
-        "value": "#f2f2f2",
-        "type": "color"
-    },
-    "Element Focus": {
-        "name": "Element Focus",
-        "token": "Element.Focus",
-        "value": "#1976d2",
-        "type": "color"
-    },
-    "Monochrome White": {
-        "name": "Monochrome White",
-        "token": "Monochrome.White",
-        "value": "#ffffff",
-        "type": "color"
-    },
-    "Monochrome Lighter": {
-        "name": "Monochrome Lighter",
-        "token": "Monochrome.Lighter",
-        "value": "#f2f2f2",
-        "type": "color"
-    },
-    "Monochrome Light": {
-        "name": "Monochrome Light",
-        "token": "Monochrome.Light",
-        "value": "#d8d8d8",
-        "type": "color"
-    },
-    "Monochrome Medium": {
-        "name": "Monochrome Medium",
-        "token": "Monochrome.Medium",
-        "value": "#737373",
-        "type": "color"
-    },
-    "Monochrome Dark": {
-        "name": "Monochrome Dark",
-        "token": "Monochrome.Dark",
-        "value": "#404040",
-        "type": "color"
-    },
-    "Monochrome Darker": {
-        "name": "Monochrome Darker",
-        "token": "Monochrome.Darker",
-        "value": "#262626",
-        "type": "color"
-    },
-    "Monochrome Black": {
-        "name": "Monochrome Black",
-        "token": "Monochrome.Black",
-        "value": "#000000",
-        "type": "color"
-    },
-    "Monochrome Grey V Light": {
-        "name": "Monochrome Grey V Light",
-        "token": "Monochrome.Grey.V.Light",
-        "value": "#f2f2f2",
-        "type": "color"
-    },
-    "Monochrome Grey Light": {
-        "name": "Monochrome Grey Light",
-        "token": "Monochrome.Grey.Light",
-        "value": "#d8d8d8",
-        "type": "color"
-    },
-    "Monochrome Grey": {
-        "name": "Monochrome Grey",
-        "token": "Monochrome.Grey",
-        "value": "#8c8c8c",
-        "type": "color"
-    },
-    "Monochrome Grey Dark": {
-        "name": "Monochrome Grey Dark",
-        "token": "Monochrome.Grey.Dark",
-        "value": "#404040",
-        "type": "color"
-    },
-    "Monochrome Grey Darker": {
-        "name": "Monochrome Grey Darker",
-        "token": "Monochrome.Grey.Darker",
-        "value": "#262626",
-        "type": "color"
-    },
-    "Monochrome White Rgb": {
-        "name": "Monochrome White Rgb",
-        "token": "Monochrome.White.Rgb",
-        "value": "#ffffff",
-        "type": "color"
-    },
-    "Monochrome Lighter Rgb": {
-        "name": "Monochrome Lighter Rgb",
-        "token": "Monochrome.Lighter.Rgb",
-        "value": "#f2f2f2",
-        "type": "color"
-    },
-    "Monochrome Light Rgb": {
-        "name": "Monochrome Light Rgb",
-        "token": "Monochrome.Light.Rgb",
-        "value": "#d8d8d8",
-        "type": "color"
-    },
-    "Monochrome Medium Rgb": {
-        "name": "Monochrome Medium Rgb",
-        "token": "Monochrome.Medium.Rgb",
-        "value": "#737373",
-        "type": "color"
-    },
-    "Monochrome Dark Rgb": {
-        "name": "Monochrome Dark Rgb",
-        "token": "Monochrome.Dark.Rgb",
-        "value": "#404040",
-        "type": "color"
-    },
-    "Monochrome Darker Rgb": {
-        "name": "Monochrome Darker Rgb",
-        "token": "Monochrome.Darker.Rgb",
-        "value": "#262626",
-        "type": "color"
-    },
-    "Monochrome Black Rgb": {
-        "name": "Monochrome Black Rgb",
-        "token": "Monochrome.Black.Rgb",
-        "value": "#000000",
-        "type": "color"
-    },
-    "Promotion Sale Lightest": {
-        "name": "Promotion Sale Lightest",
-        "token": "Promotion.Sale.Lightest",
-        "value": "#f8ccc4",
-        "type": "color"
-    },
-    "Promotion Sale Lighter": {
-        "name": "Promotion Sale Lighter",
-        "token": "Promotion.Sale.Lighter",
-        "value": "#f29888",
-        "type": "color"
-    },
-    "Promotion Sale Light": {
-        "name": "Promotion Sale Light",
-        "token": "Promotion.Sale.Light",
-        "value": "#ec664e",
-        "type": "color"
-    },
-    "Promotion Sale Base": {
-        "name": "Promotion Sale Base",
-        "token": "Promotion.Sale.Base",
-        "value": "#e53212",
-        "type": "color"
-    },
-    "Promotion Sale Dark": {
-        "name": "Promotion Sale Dark",
-        "token": "Promotion.Sale.Dark",
-        "value": "#bd0000",
-        "type": "color"
-    },
-    "Promotion Sale Darker": {
-        "name": "Promotion Sale Darker",
-        "token": "Promotion.Sale.Darker",
-        "value": "#a50000",
-        "type": "color"
-    },
-    "Promotion Sale Darkest": {
-        "name": "Promotion Sale Darkest",
-        "token": "Promotion.Sale.Darkest",
-        "value": "#8d0000",
-        "type": "color"
-    },
-    "Promotion New Lightest": {
-        "name": "Promotion New Lightest",
-        "token": "Promotion.New.Lightest",
-        "value": "#e8f1fb",
-        "type": "color"
-    },
-    "Promotion New Lighter": {
-        "name": "Promotion New Lighter",
-        "token": "Promotion.New.Lighter",
-        "value": "#95c0ea",
-        "type": "color"
-    },
-    "Promotion New Light": {
-        "name": "Promotion New Light",
-        "token": "Promotion.New.Light",
-        "value": "#428fda",
-        "type": "color"
-    },
-    "Promotion New Base": {
-        "name": "Promotion New Base",
-        "token": "Promotion.New.Base",
-        "value": "#1976d2",
-        "type": "color"
-    },
-    "Promotion New Dark": {
-        "name": "Promotion New Dark",
-        "token": "Promotion.New.Dark",
-        "value": "#1669ba",
-        "type": "color"
-    },
-    "Promotion New Darker": {
-        "name": "Promotion New Darker",
-        "token": "Promotion.New.Darker",
-        "value": "#135ca3",
-        "type": "color"
-    },
-    "Promotion New Darkest": {
-        "name": "Promotion New Darkest",
-        "token": "Promotion.New.Darkest",
-        "value": "#114e8b",
-        "type": "color"
-    },
-    "Promotion Stunt Lightest": {
-        "name": "Promotion Stunt Lightest",
-        "token": "Promotion.Stunt.Lightest",
-        "value": "#f8bfdc",
-        "type": "color"
-    },
-    "Promotion Stunt Lighter": {
-        "name": "Promotion Stunt Lighter",
-        "token": "Promotion.Stunt.Lighter",
-        "value": "#f27fba",
-        "type": "color"
-    },
-    "Promotion Stunt Light": {
-        "name": "Promotion Stunt Light",
-        "token": "Promotion.Stunt.Light",
-        "value": "#ec4098",
-        "type": "color"
-    },
-    "Promotion Stunt Base": {
-        "name": "Promotion Stunt Base",
-        "token": "Promotion.Stunt.Base",
-        "value": "#e50075",
-        "type": "color"
-    },
-    "Promotion Promotion 1 Base": {
-        "name": "Promotion Promotion 1 Base",
-        "token": "Promotion.Promotion.1.Base",
-        "value": "#e53212",
-        "type": "color"
-    },
-    "Promotion Promotion 1 Lightest": {
-        "name": "Promotion Promotion 1 Lightest",
-        "token": "Promotion.Promotion.1.Lightest",
-        "value": "#f8ccc4",
-        "type": "color"
-    },
-    "Promotion Promotion 1 Lighter": {
-        "name": "Promotion Promotion 1 Lighter",
-        "token": "Promotion.Promotion.1.Lighter",
-        "value": "#f29888",
-        "type": "color"
-    },
-    "Promotion Promotion 1 Light": {
-        "name": "Promotion Promotion 1 Light",
-        "token": "Promotion.Promotion.1.Light",
-        "value": "#ec664e",
-        "type": "color"
-    },
-    "Promotion Promotion 2 Base": {
-        "name": "Promotion Promotion 2 Base",
-        "token": "Promotion.Promotion.2.Base",
-        "value": "#e50075",
-        "type": "color"
-    },
-    "Promotion Promotion 2 Lightest": {
-        "name": "Promotion Promotion 2 Lightest",
-        "token": "Promotion.Promotion.2.Lightest",
-        "value": "#f8bfdc",
-        "type": "color"
-    },
-    "Promotion Promotion 2 Lighter": {
-        "name": "Promotion Promotion 2 Lighter",
-        "token": "Promotion.Promotion.2.Lighter",
-        "value": "#f27fba",
-        "type": "color"
-    },
-    "Promotion Promotion 2 Light": {
-        "name": "Promotion Promotion 2 Light",
-        "token": "Promotion.Promotion.2.Light",
-        "value": "#ec4098",
-        "type": "color"
-    },
-    "Promotion 1 Base": {
-        "name": "Promotion 1 Base",
-        "token": "Promotion.1.Base",
-        "value": "#e53212",
-        "type": "color"
-    },
-    "Promotion 1 Lightest": {
-        "name": "Promotion 1 Lightest",
-        "token": "Promotion.1.Lightest",
-        "value": "#f8ccc4",
-        "type": "color"
-    },
-    "Promotion 1 Lighter": {
-        "name": "Promotion 1 Lighter",
-        "token": "Promotion.1.Lighter",
-        "value": "#f29888",
-        "type": "color"
-    },
-    "Promotion 1 Light": {
-        "name": "Promotion 1 Light",
-        "token": "Promotion.1.Light",
-        "value": "#ec664e",
-        "type": "color"
-    },
-    "Promotion 2 Base": {
-        "name": "Promotion 2 Base",
-        "token": "Promotion.2.Base",
-        "value": "#1976d2",
-        "type": "color"
-    },
-    "Promotion 2 Lightest": {
-        "name": "Promotion 2 Lightest",
-        "token": "Promotion.2.Lightest",
-        "value": "#e8f1fb",
-        "type": "color"
-    },
-    "Promotion 2 Lighter": {
-        "name": "Promotion 2 Lighter",
-        "token": "Promotion.2.Lighter",
-        "value": "#95c0ea",
-        "type": "color"
-    },
-    "Promotion 2 Light": {
-        "name": "Promotion 2 Light",
-        "token": "Promotion.2.Light",
-        "value": "#428fda",
-        "type": "color"
-    },
-    "Scheme Light Base": {
-        "name": "Scheme Light Base",
-        "token": "Scheme.Light.Base",
-        "value": "#f2f2f2",
-        "type": "color"
-    },
-    "Scheme Light Highlight": {
-        "name": "Scheme Light Highlight",
-        "token": "Scheme.Light.Highlight",
-        "value": "#ffffff",
-        "type": "color"
-    },
-    "Scheme Light On Base": {
-        "name": "Scheme Light On Base",
-        "token": "Scheme.Light.On.Base",
-        "value": "#404040",
-        "type": "color"
-    },
-    "Scheme Light On Highlight": {
-        "name": "Scheme Light On Highlight",
-        "token": "Scheme.Light.On.Highlight",
-        "value": "#000000",
-        "type": "color"
-    },
-    "Scheme Dark Base": {
-        "name": "Scheme Dark Base",
-        "token": "Scheme.Dark.Base",
-        "value": "#404040",
-        "type": "color"
-    },
-    "Scheme Dark Highlight": {
-        "name": "Scheme Dark Highlight",
-        "token": "Scheme.Dark.Highlight",
-        "value": "#000000",
-        "type": "color"
-    },
-    "Scheme Dark On Base": {
-        "name": "Scheme Dark On Base",
-        "token": "Scheme.Dark.On.Base",
-        "value": "#ffffff",
-        "type": "color"
-    },
-    "Scheme Dark On Highlight": {
-        "name": "Scheme Dark On Highlight",
-        "token": "Scheme.Dark.On.Highlight",
-        "value": "#ffffff",
-        "type": "color"
-    },
-    "Scheme Brand 1 Base": {
-        "name": "Scheme Brand 1 Base",
-        "token": "Scheme.Brand.1.Base",
-        "value": "#000000",
-        "type": "color"
-    },
-    "Scheme Brand 1 Highlight": {
-        "name": "Scheme Brand 1 Highlight",
-        "token": "Scheme.Brand.1.Highlight",
-        "value": "#404040",
-        "type": "color"
-    },
-    "Scheme Brand 1 Lowlight": {
-        "name": "Scheme Brand 1 Lowlight",
-        "token": "Scheme.Brand.1.Lowlight",
-        "value": "#f2f2f2",
-        "type": "color"
-    },
-    "Scheme Brand 1 On Base": {
-        "name": "Scheme Brand 1 On Base",
-        "token": "Scheme.Brand.1.On.Base",
-        "value": "#ffffff",
-        "type": "color"
-    },
-    "Scheme Brand 1 On Highlight": {
-        "name": "Scheme Brand 1 On Highlight",
-        "token": "Scheme.Brand.1.On.Highlight",
-        "value": "#ffffff",
-        "type": "color"
-    },
-    "Scheme Brand 1 On Lowlight": {
-        "name": "Scheme Brand 1 On Lowlight",
-        "token": "Scheme.Brand.1.On.Lowlight",
-        "value": "#f2f2f2",
-        "type": "color"
-    },
-    "Scheme Brand 2 Base": {
-        "name": "Scheme Brand 2 Base",
-        "token": "Scheme.Brand.2.Base",
-        "value": "#ffffff",
-        "type": "color"
-    },
-    "Scheme Brand 2 Highlight": {
-        "name": "Scheme Brand 2 Highlight",
-        "token": "Scheme.Brand.2.Highlight",
-        "value": "#f2f2f2",
-        "type": "color"
-    },
-    "Scheme Brand 2 Lowlight": {
-        "name": "Scheme Brand 2 Lowlight",
-        "token": "Scheme.Brand.2.Lowlight",
-        "value": "#f2f2f2",
-        "type": "color"
-    },
-    "Scheme Brand 2 On Base": {
-        "name": "Scheme Brand 2 On Base",
-        "token": "Scheme.Brand.2.On.Base",
-        "value": "#f2f2f2",
-        "type": "color"
-    },
-    "Scheme Brand 2 On Highlight": {
-        "name": "Scheme Brand 2 On Highlight",
-        "token": "Scheme.Brand.2.On.Highlight",
-        "value": "#ffffff",
-        "type": "color"
-    },
-    "Semantic Error Lighter": {
-        "name": "Semantic Error Lighter",
-        "token": "Semantic.Error.Lighter",
-        "value": "#fbe6e6",
-        "type": "color"
-    },
-    "Semantic Error Light": {
-        "name": "Semantic Error Light",
-        "token": "Semantic.Error.Light",
-        "value": "#ec664e",
-        "type": "color"
-    },
-    "Semantic Error Base": {
-        "name": "Semantic Error Base",
-        "token": "Semantic.Error.Base",
-        "value": "#e53212",
-        "type": "color"
-    },
-    "Semantic Error Dark": {
-        "name": "Semantic Error Dark",
-        "token": "Semantic.Error.Dark",
-        "value": "#bd0000",
-        "type": "color"
-    },
-    "Semantic Error Darker": {
-        "name": "Semantic Error Darker",
-        "token": "Semantic.Error.Darker",
-        "value": "#a50000",
-        "type": "color"
-    },
-    "Semantic Error Text": {
-        "name": "Semantic Error Text",
-        "token": "Semantic.Error.Text",
-        "value": "#ffffff",
-        "type": "color"
-    },
-    "Semantic Info Lighter": {
-        "name": "Semantic Info Lighter",
-        "token": "Semantic.Info.Lighter",
-        "value": "#e8f1fb",
-        "type": "color"
-    },
-    "Semantic Info Light": {
-        "name": "Semantic Info Light",
-        "token": "Semantic.Info.Light",
-        "value": "#428fda",
-        "type": "color"
-    },
-    "Semantic Info Base": {
-        "name": "Semantic Info Base",
-        "token": "Semantic.Info.Base",
-        "value": "#1976d2",
-        "type": "color"
-    },
-    "Semantic Info Dark": {
-        "name": "Semantic Info Dark",
-        "token": "Semantic.Info.Dark",
-        "value": "#1669ba",
-        "type": "color"
-    },
-    "Semantic Info Darker": {
-        "name": "Semantic Info Darker",
-        "token": "Semantic.Info.Darker",
-        "value": "#135ca3",
-        "type": "color"
-    },
-    "Semantic Info Text": {
-        "name": "Semantic Info Text",
-        "token": "Semantic.Info.Text",
-        "value": "#ffffff",
-        "type": "color"
-    },
-    "Semantic Success Lighter": {
-        "name": "Semantic Success Lighter",
-        "token": "Semantic.Success.Lighter",
-        "value": "#eaf2eb",
-        "type": "color"
-    },
-    "Semantic Success Light": {
-        "name": "Semantic Success Light",
-        "token": "Semantic.Success.Light",
-        "value": "#549457",
-        "type": "color"
-    },
-    "Semantic Success Base": {
-        "name": "Semantic Success Base",
-        "token": "Semantic.Success.Base",
-        "value": "#2e7d32",
-        "type": "color"
-    },
-    "Semantic Success Dark": {
-        "name": "Semantic Success Dark",
-        "token": "Semantic.Success.Dark",
-        "value": "#296f2c",
-        "type": "color"
-    },
-    "Semantic Success Darker": {
-        "name": "Semantic Success Darker",
-        "token": "Semantic.Success.Darker",
-        "value": "#246127",
-        "type": "color"
-    },
-    "Semantic Success Text": {
-        "name": "Semantic Success Text",
-        "token": "Semantic.Success.Text",
-        "value": "#ffffff",
-        "type": "color"
-    },
-    "Semantic Warning Lighter": {
-        "name": "Semantic Warning Lighter",
-        "token": "Semantic.Warning.Lighter",
-        "value": "#fffbe6",
-        "type": "color"
-    },
-    "Semantic Warning Light": {
-        "name": "Semantic Warning Light",
-        "token": "Semantic.Warning.Light",
-        "value": "#ffdc40",
-        "type": "color"
-    },
-    "Semantic Warning Base": {
-        "name": "Semantic Warning Base",
-        "token": "Semantic.Warning.Base",
-        "value": "#ffd000",
-        "type": "color"
-    },
-    "Semantic Warning Dark": {
-        "name": "Semantic Warning Dark",
-        "token": "Semantic.Warning.Dark",
-        "value": "#e2be00",
-        "type": "color"
-    },
-    "Semantic Warning Darker": {
-        "name": "Semantic Warning Darker",
-        "token": "Semantic.Warning.Darker",
-        "value": "#c6a600",
-        "type": "color"
-    },
-    "Semantic Warning Text": {
-        "name": "Semantic Warning Text",
-        "token": "Semantic.Warning.Text",
-        "value": "#404040",
-        "type": "color"
-    },
-    "Transparency Black": {
-        "name": "Transparency Black",
-        "token": "Transparency.Black",
-        "value": "#000000",
-        "type": "color"
-    },
-    "Transparency Default": {
-        "name": "Transparency Default",
-        "token": "Transparency.Default",
-        "value": "#000000",
-        "type": "color"
-    },
-    "Transparency White": {
-        "name": "Transparency White",
-        "token": "Transparency.White",
-        "value": "#ffffff",
-        "type": "color"
-    },
-    "Transparency Brand 1": {
-        "name": "Transparency Brand 1",
-        "token": "Transparency.Brand.1",
-        "value": "#000000",
-        "type": "color"
-    },
-    "Transparency Brand 2": {
-        "name": "Transparency Brand 2",
-        "token": "Transparency.Brand.2",
-        "value": "#ffffff",
-        "type": "color"
-    },
-    "Transparency Error": {
-        "name": "Transparency Error",
-        "token": "Transparency.Error",
-        "value": "#e53212",
-        "type": "color"
-    },
-    "Transparency Info": {
-        "name": "Transparency Info",
-        "token": "Transparency.Info",
-        "value": "#1976d2",
-        "type": "color"
-    },
-    "Transparency Success": {
-        "name": "Transparency Success",
-        "token": "Transparency.Success",
-        "value": "#2e7d32",
-        "type": "color"
-    },
-    "Transparency Warning": {
-        "name": "Transparency Warning",
-        "token": "Transparency.Warning",
-        "value": "#ffd000",
-        "type": "color"
-    },
-    "Transparency Medium": {
-        "name": "Transparency Medium",
-        "token": "Transparency.Medium",
-        "value": "#737373",
-        "type": "color"
-    },
-    "Transparency Dark": {
-        "name": "Transparency Dark",
-        "token": "Transparency.Dark",
-        "value": "#404040",
-        "type": "color"
-    },
-    "Transparency Darker": {
-        "name": "Transparency Darker",
-        "token": "Transparency.Darker",
-        "value": "#262626",
-        "type": "color"
-    },
-    "Transparency Tabs": {
-        "name": "Transparency Tabs",
-        "token": "Transparency.Tabs",
-        "value": "#000000",
-        "type": "color"
-    },
-    "Campaign 1 Base": {
-        "name": "Campaign 1 Base",
-        "token": "Campaign.1.Base",
-        "value": "#fdc533",
-        "type": "color"
-    },
-    "Campaign 1 Lightest": {
-        "name": "Campaign 1 Lightest",
-        "token": "Campaign.1.Lightest",
-        "value": "#fff0cc",
-        "type": "color"
-    },
-    "Campaign 1 Lighter": {
-        "name": "Campaign 1 Lighter",
-        "token": "Campaign.1.Lighter",
-        "value": "#fee299",
-        "type": "color"
-    },
-    "Campaign 1 Light": {
-        "name": "Campaign 1 Light",
-        "token": "Campaign.1.Light",
-        "value": "#fdd366",
-        "type": "color"
-    },
-    "Campaign 2 Base": {
-        "name": "Campaign 2 Base",
-        "token": "Campaign.2.Base",
-        "value": "#6787c1",
-        "type": "color"
-    },
-    "Campaign 2 Lightest": {
-        "name": "Campaign 2 Lightest",
-        "token": "Campaign.2.Lightest",
-        "value": "#d9e1ef",
-        "type": "color"
-    },
-    "Campaign 2 Lighter": {
-        "name": "Campaign 2 Lighter",
-        "token": "Campaign.2.Lighter",
-        "value": "#b3c3e0",
-        "type": "color"
-    },
-    "Campaign 2 Light": {
-        "name": "Campaign 2 Light",
-        "token": "Campaign.2.Light",
-        "value": "#8da5d0",
-        "type": "color"
-    },
-    "Campaign 3 Base": {
-        "name": "Campaign 3 Base",
-        "token": "Campaign.3.Base",
-        "value": "#e6655d",
-        "type": "color"
-    },
-    "Campaign 3 Lightest": {
-        "name": "Campaign 3 Lightest",
-        "token": "Campaign.3.Lightest",
-        "value": "#f9d9d7",
-        "type": "color"
-    },
-    "Campaign 3 Lighter": {
-        "name": "Campaign 3 Lighter",
-        "token": "Campaign.3.Lighter",
-        "value": "#f3b2ae",
-        "type": "color"
-    },
-    "Campaign 3 Light": {
-        "name": "Campaign 3 Light",
-        "token": "Campaign.3.Light",
-        "value": "#ec8b85",
-        "type": "color"
-    },
-    "Campaign 4 Base": {
-        "name": "Campaign 4 Base",
-        "token": "Campaign.4.Base",
-        "value": "#8ec9ab",
-        "type": "color"
-    },
-    "Campaign 4 Lightest": {
-        "name": "Campaign 4 Lightest",
-        "token": "Campaign.4.Lightest",
-        "value": "#e3f1ea",
-        "type": "color"
-    },
-    "Campaign 4 Lighter": {
-        "name": "Campaign 4 Lighter",
-        "token": "Campaign.4.Lighter",
-        "value": "#c7e4d5",
-        "type": "color"
-    },
-    "Campaign 4 Light": {
-        "name": "Campaign 4 Light",
-        "token": "Campaign.4.Light",
-        "value": "#aad6c0",
-        "type": "color"
-    },
-    "Campaign 5 Base": {
-        "name": "Campaign 5 Base",
-        "token": "Campaign.5.Base",
-        "value": "#192a44",
-        "type": "color"
-    },
-    "Campaign 5 Lightest": {
-        "name": "Campaign 5 Lightest",
-        "token": "Campaign.5.Lightest",
-        "value": "#c5cad0",
-        "type": "color"
-    },
-    "Campaign 5 Lighter": {
-        "name": "Campaign 5 Lighter",
-        "token": "Campaign.5.Lighter",
-        "value": "#8c94a1",
-        "type": "color"
-    },
-    "Campaign 5 Light": {
-        "name": "Campaign 5 Light",
-        "token": "Campaign.5.Light",
-        "value": "#535f73",
-        "type": "color"
-    },
-    "Dark Background": {
-        "name": "Dark Background",
-        "token": "Dark.Background",
-        "value": "#262626",
-        "type": "surface"
-    },
-    "Dark Base": {
-        "name": "Dark Base",
-        "token": "Dark.Base",
-        "value": "#f2f2f2",
-        "type": "surface"
-    },
-    "Dark Base Inverse": {
-        "name": "Dark Base Inverse",
-        "token": "Dark.Base.Inverse",
-        "value": "#404040",
-        "type": "mode"
-    },
-    "Dark Border": {
-        "name": "Dark Border",
-        "token": "Dark.Border",
-        "value": "#404040",
-        "type": "surface"
-    },
-    "Dark Border Interactive": {
-        "name": "Dark Border Interactive",
-        "token": "Dark.Border.Interactive",
-        "value": "#737373",
-        "type": "mode"
-    },
-    "Dark Border Interactive Highlight": {
-        "name": "Dark Border Interactive Highlight",
-        "token": "Dark.Border.Interactive.Highlight",
-        "value": "#404040",
-        "type": "mode"
-    },
-    "Dark Footer Background": {
-        "name": "Dark Footer Background",
-        "token": "Dark.Footer.Background",
-        "value": "#ffffff",
-        "type": "mode"
-    },
-    "Dark Footer Text": {
-        "name": "Dark Footer Text",
-        "token": "Dark.Footer.Text",
-        "value": "#404040",
-        "type": "mode"
-    },
-    "Dark Foreground": {
-        "name": "Dark Foreground",
-        "token": "Dark.Foreground",
-        "value": "#262626",
-        "type": "mode"
-    },
-    "Dark Header Background": {
-        "name": "Dark Header Background",
-        "token": "Dark.Header.Background",
-        "value": "#262626",
-        "type": "mode"
-    },
-    "Dark Header Text": {
-        "name": "Dark Header Text",
-        "token": "Dark.Header.Text",
-        "value": "#f2f2f2",
-        "type": "mode"
-    },
-    "Dark Highlight": {
-        "name": "Dark Highlight",
-        "token": "Dark.Highlight",
-        "value": "#ffffff",
-        "type": "surface"
-    },
-    "Dark Highlight Inverse": {
-        "name": "Dark Highlight Inverse",
-        "token": "Dark.Highlight.Inverse",
-        "value": "#000000",
-        "type": "mode"
-    },
-    "Default Background": {
-        "name": "Default Background",
-        "token": "Default.Background",
-        "value": "#f2f2f2",
-        "type": "mode"
-    },
-    "Default Base": {
-        "name": "Default Base",
-        "token": "Default.Base",
-        "value": "#404040",
-        "type": "mode"
-    },
-    "Default Base Inverse": {
-        "name": "Default Base Inverse",
-        "token": "Default.Base.Inverse",
-        "value": "#404040",
-        "type": "mode"
-    },
-    "Default Border": {
-        "name": "Default Border",
-        "token": "Default.Border",
-        "value": "#d8d8d8",
-        "type": "mode"
-    },
-    "Default Border Interactive": {
-        "name": "Default Border Interactive",
-        "token": "Default.Border.Interactive",
-        "value": "#737373",
-        "type": "mode"
-    },
-    "Default Border Interactive Highlight": {
-        "name": "Default Border Interactive Highlight",
-        "token": "Default.Border.Interactive.Highlight",
-        "value": "#404040",
-        "type": "mode"
-    },
-    "Default Footer Background": {
-        "name": "Default Footer Background",
-        "token": "Default.Footer.Background",
-        "value": "#262626",
-        "type": "mode"
-    },
-    "Default Footer Text": {
-        "name": "Default Footer Text",
-        "token": "Default.Footer.Text",
-        "value": "#f2f2f2",
-        "type": "mode"
-    },
-    "Default Foreground": {
-        "name": "Default Foreground",
-        "token": "Default.Foreground",
-        "value": "#ffffff",
-        "type": "mode"
-    },
-    "Default Header Background": {
-        "name": "Default Header Background",
-        "token": "Default.Header.Background",
-        "value": "#ffffff",
-        "type": "mode"
-    },
-    "Default Header Text": {
-        "name": "Default Header Text",
-        "token": "Default.Header.Text",
-        "value": "#404040",
-        "type": "mode"
-    },
-    "Default Highlight": {
-        "name": "Default Highlight",
-        "token": "Default.Highlight",
-        "value": "#404040",
-        "type": "mode"
-    },
-    "Default Highlight Inverse": {
-        "name": "Default Highlight Inverse",
-        "token": "Default.Highlight.Inverse",
-        "value": "#000000",
-        "type": "mode"
-    },
-    "Default Lowlight": {
-        "name": "Default Lowlight",
-        "token": "Default.Lowlight",
-        "value": "#000000",
-        "type": "mode"
-    },
-    "Light Background": {
-        "name": "Light Background",
-        "token": "Light.Background",
-        "value": "#f2f2f2",
-        "type": "surface"
-    },
-    "Light Base": {
-        "name": "Light Base",
-        "token": "Light.Base",
-        "value": "#404040",
-        "type": "surface"
-    },
-    "Light Border": {
-        "name": "Light Border",
-        "token": "Light.Border",
-        "value": "#d8d8d8",
-        "type": "surface"
-    },
-    "Light Highlight": {
-        "name": "Light Highlight",
-        "token": "Light.Highlight",
-        "value": "#404040",
-        "type": "surface"
-    },
-    "Light Lowlight": {
-        "name": "Light Lowlight",
-        "token": "Light.Lowlight",
-        "value": "#000000",
-        "type": "surface"
-    },
-    "Light Interactive": {
-        "name": "Light Interactive",
-        "token": "Light.Interactive",
-        "value": "#737373",
-        "type": "surface"
-    },
-    "Light Interactive Hover": {
-        "name": "Light Interactive Hover",
-        "token": "Light.Interactive.Hover",
-        "value": "#404040",
-        "type": "surface"
-    },
-    "White Background": {
-        "name": "White Background",
-        "token": "White.Background",
-        "value": "#ffffff",
-        "type": "surface"
-    },
-    "White Base": {
-        "name": "White Base",
-        "token": "White.Base",
-        "value": "#404040",
-        "type": "surface"
-    },
-    "White Border": {
-        "name": "White Border",
-        "token": "White.Border",
-        "value": "#d8d8d8",
-        "type": "surface"
-    },
-    "White Highlight": {
-        "name": "White Highlight",
-        "token": "White.Highlight",
-        "value": "#000000",
-        "type": "surface"
-    },
-    "Dark Interactive": {
-        "name": "Dark Interactive",
-        "token": "Dark.Interactive",
-        "value": "#737373",
-        "type": "surface"
-    },
-    "Dark Interactive Hover": {
-        "name": "Dark Interactive Hover",
-        "token": "Dark.Interactive.Hover",
-        "value": "#404040",
-        "type": "surface"
-    },
-    "Grey Background": {
-        "name": "Grey Background",
-        "token": "Grey.Background",
-        "value": "#262626",
-        "type": "surface"
-    },
-    "Grey Base": {
-        "name": "Grey Base",
-        "token": "Grey.Base",
-        "value": "#f2f2f2",
-        "type": "surface"
-    },
-    "Grey Border": {
-        "name": "Grey Border",
-        "token": "Grey.Border",
-        "value": "#404040",
-        "type": "surface"
-    },
-    "Grey Highlight": {
-        "name": "Grey Highlight",
-        "token": "Grey.Highlight",
-        "value": "#000000",
-        "type": "surface"
-    },
-    "Border Width": {
-        "name": "Border Width",
-        "token": "Border.Width",
-        "value": "1px",
-        "type": "modifier"
-    },
-    "Border Width Large": {
-        "name": "Border Width Large",
-        "token": "Border.Width.Large",
-        "value": "2px",
-        "type": "modifier"
-    },
-    "Border Width Extra Large": {
-        "name": "Border Width Extra Large",
-        "token": "Border.Width.Extra.Large",
-        "value": "6px",
-        "type": "modifier"
-    },
-    "Border Radius": {
-        "name": "Border Radius",
-        "token": "Border.Radius",
-        "value": "2px",
-        "type": "modifier"
-    },
-    "Border Radius Large": {
-        "name": "Border Radius Large",
-        "token": "Border.Radius.Large",
-        "value": "4px",
-        "type": "modifier"
-    },
-    "Border Interactive Width": {
-        "name": "Border Interactive Width",
-        "token": "Border.Interactive.Width",
-        "value": "1px",
-        "type": "modifier"
-    },
-    "Button Border": {
-        "name": "Button Border",
-        "token": "Button.Border",
-        "value": "2px",
-        "type": "modifier"
-    },
-    "Button Border Radius": {
-        "name": "Button Border Radius",
-        "token": "Button.Border.Radius",
-        "value": "2px",
-        "type": "modifier"
-    },
-    "Button Color Base": {
-        "name": "Button Color Base",
-        "token": "Button.Color.Base",
-        "value": "#000000",
-        "type": "modifier"
-    },
-    "Button Color Highlight": {
-        "name": "Button Color Highlight",
-        "token": "Button.Color.Highlight",
-        "value": "#404040",
-        "type": "modifier"
-    },
-    "Button Color Lowlight": {
-        "name": "Button Color Lowlight",
-        "token": "Button.Color.Lowlight",
-        "value": "#f2f2f2",
-        "type": "modifier"
-    },
-    "Button Color On Base": {
-        "name": "Button Color On Base",
-        "token": "Button.Color.On.Base",
-        "value": "#ffffff",
-        "type": "modifier"
-    },
-    "Button Color On Highlight": {
-        "name": "Button Color On Highlight",
-        "token": "Button.Color.On.Highlight",
-        "value": "#ffffff",
-        "type": "modifier"
-    },
-    "Button Color On Lowlight": {
-        "name": "Button Color On Lowlight",
-        "token": "Button.Color.On.Lowlight",
-        "value": "#f2f2f2",
-        "type": "modifier"
-    },
-    "Button Padding Horizontal": {
-        "name": "Button Padding Horizontal",
-        "token": "Button.Padding.Horizontal",
-        "value": "24",
-        "type": "modifier"
-    },
-    "Button Padding Vertical": {
-        "name": "Button Padding Vertical",
-        "token": "Button.Padding.Vertical",
-        "value": "8",
-        "type": "modifier"
-    },
-    "Button Text Transform": {
-        "name": "Button Text Transform",
-        "token": "Button.Text.Transform",
-        "value": "uppercase",
-        "type": "modifier"
-    },
-    "Focus Ring Focus Width": {
-        "name": "Focus Ring Focus Width",
-        "token": "Focus.Ring.Focus.Width",
-        "value": "3px",
-        "type": "modifier"
-    },
-    "Focus Ring Color": {
-        "name": "Focus Ring Color",
-        "token": "Focus.Ring.Color",
-        "value": "#1976d2",
-        "type": "modifier"
-    },
-    "Footer Background": {
-        "name": "Footer Background",
-        "token": "Footer.Background",
-        "value": "#404040",
-        "type": "modifier"
-    },
-    "Footer Text": {
-        "name": "Footer Text",
-        "token": "Footer.Text",
-        "value": "#ffffff",
-        "type": "modifier"
-    },
-    "Header Background": {
-        "name": "Header Background",
-        "token": "Header.Background",
-        "value": "#ffffff",
-        "type": "modifier"
-    },
-    "Global Bar Height": {
-        "name": "Global Bar Height",
-        "token": "Global.Bar.Height",
-        "value": "36px",
-        "type": "modifier"
-    },
-    "Link Color Brand": {
-        "name": "Link Color Brand",
-        "token": "Link.Color.Brand",
-        "value": "#000000",
-        "type": "modifier"
-    },
-    "Link Color Brand Highlight": {
-        "name": "Link Color Brand Highlight",
-        "token": "Link.Color.Brand.Highlight",
-        "value": "#404040",
-        "type": "modifier"
-    },
-    "Link Color Brand Lowlight": {
-        "name": "Link Color Brand Lowlight",
-        "token": "Link.Color.Brand.Lowlight",
-        "value": "#f2f2f2",
-        "type": "modifier"
-    },
-    "Link Font Weight Regular": {
-        "name": "Link Font Weight Regular",
-        "token": "Link.Font.Weight.Regular",
-        "value": "400",
-        "type": "modifier"
-    },
-    "Link Font Weight Brand": {
-        "name": "Link Font Weight Brand",
-        "token": "Link.Font.Weight.Brand",
-        "value": "400",
-        "type": "modifier"
-    },
-    "Transition Duration": {
-        "name": "Transition Duration",
-        "token": "Transition.Duration",
-        "value": "0.2s",
-        "type": "modifier"
-    },
-    "Transition Duration Long": {
-        "name": "Transition Duration Long",
-        "token": "Transition.Duration.Long",
-        "value": "0.4s",
-        "type": "modifier"
-    },
-    "Transition Timing Function Default": {
-        "name": "Transition Timing Function Default",
-        "token": "Transition.Timing.Function.Default",
-        "value": "ease-out",
-        "type": "modifier"
-    },
-    "Default": {
-        "name": "Default",
-        "token": "Default",
-        "value": "0.7",
-        "type": "opacity"
-    },
-    "Light": {
-        "name": "Light",
-        "token": "Light",
-        "value": "0.15",
-        "type": "opacity"
-    },
-    "Disabled": {
-        "name": "Disabled",
-        "token": "Disabled",
-        "value": "0.35",
-        "type": "opacity"
-    },
-    "Background": {
-        "name": "Background",
-        "token": "Background",
-        "value": "0.06",
-        "type": "opacity"
-    },
-    "None": {
-        "name": "None",
-        "token": "None",
-        "value": "0",
-        "type": "opacity"
-    },
-    "Color": {
-        "name": "Color",
-        "token": "Color",
-        "value": "#000000",
-        "type": "overlay"
-    },
-    "Opacity": {
-        "name": "Opacity",
-        "token": "Opacity",
-        "value": "0.7",
-        "type": "overlay"
-    },
-    "Baseline Grid": {
-        "name": "Baseline Grid",
-        "token": "Baseline.Grid",
-        "value": "8",
-        "type": "space"
-    },
-    "Baseline Condensed": {
-        "name": "Baseline Condensed",
-        "token": "Baseline.Condensed",
-        "value": "4",
-        "type": "space"
-    },
-    "Fixed Width Extra Small": {
-        "name": "Fixed Width Extra Small",
-        "token": "Fixed.Width.Extra.Small",
-        "value": "800",
-        "type": "space"
-    },
-    "Fixed Width Small": {
-        "name": "Fixed Width Small",
-        "token": "Fixed.Width.Small",
-        "value": "1280",
-        "type": "space"
-    },
-    "Fixed Width Medium": {
-        "name": "Fixed Width Medium",
-        "token": "Fixed.Width.Medium",
-        "value": "1440",
-        "type": "space"
-    },
-    "Fixed Width Large": {
-        "name": "Fixed Width Large",
-        "token": "Fixed.Width.Large",
-        "value": "1800",
-        "type": "space"
-    },
-    "Size Small": {
-        "name": "Size Small",
-        "token": "Size.Small",
-        "value": "24",
-        "type": "space"
-    },
-    "Size Medium": {
-        "name": "Size Medium",
-        "token": "Size.Medium",
-        "value": "48",
-        "type": "space"
-    },
-    "Size Large": {
-        "name": "Size Large",
-        "token": "Size.Large",
-        "value": "80",
-        "type": "space"
-    },
-    "Spacing Default": {
-        "name": "Spacing Default",
-        "token": "Spacing.Default",
-        "value": "8",
-        "type": "space"
-    },
-    "Spacing Extra Small": {
-        "name": "Spacing Extra Small",
-        "token": "Spacing.Extra.Small",
-        "value": "4",
-        "type": "space"
-    },
-    "Spacing Small": {
-        "name": "Spacing Small",
-        "token": "Spacing.Small",
-        "value": "8",
-        "type": "space"
-    },
-    "Spacing Medium": {
-        "name": "Spacing Medium",
-        "token": "Spacing.Medium",
-        "value": "16",
-        "type": "space"
-    },
-    "Spacing Large": {
-        "name": "Spacing Large",
-        "token": "Spacing.Large",
-        "value": "24",
-        "type": "space"
-    },
-    "Spacing Extra Large": {
-        "name": "Spacing Extra Large",
-        "token": "Spacing.Extra.Large",
-        "value": "32",
-        "type": "space"
-    },
-    "Spacing Half": {
-        "name": "Spacing Half",
-        "token": "Spacing.Half",
-        "value": "4",
-        "type": "space"
-    },
-    "Spacing X 1": {
-        "name": "Spacing X 1",
-        "token": "Spacing.X.1",
-        "value": "8",
-        "type": "space"
-    },
-    "Spacing X 2": {
-        "name": "Spacing X 2",
-        "token": "Spacing.X.2",
-        "value": "16",
-        "type": "space"
-    },
-    "Spacing X 3": {
-        "name": "Spacing X 3",
-        "token": "Spacing.X.3",
-        "value": "24",
-        "type": "space"
-    },
-    "Spacing X 4": {
-        "name": "Spacing X 4",
-        "token": "Spacing.X.4",
-        "value": "32",
-        "type": "space"
-    },
-    "Spacing X 5": {
-        "name": "Spacing X 5",
-        "token": "Spacing.X.5",
-        "value": "40",
-        "type": "space"
-    },
-    "Spacing X 6": {
-        "name": "Spacing X 6",
-        "token": "Spacing.X.6",
-        "value": "48",
-        "type": "space"
-    },
-    "Spacing X 7": {
-        "name": "Spacing X 7",
-        "token": "Spacing.X.7",
-        "value": "56",
-        "type": "space"
-    },
-    "Spacing X 8": {
-        "name": "Spacing X 8",
-        "token": "Spacing.X.8",
-        "value": "64",
-        "type": "space"
-    },
-    "Spacing X 9": {
-        "name": "Spacing X 9",
-        "token": "Spacing.X.9",
-        "value": "72",
-        "type": "space"
-    },
-    "Spacing X 10": {
-        "name": "Spacing X 10",
-        "token": "Spacing.X.10",
-        "value": "80",
-        "type": "space"
-    },
-    "Breakpoints Extra Extra Small": {
-        "name": "Breakpoints Extra Extra Small",
-        "token": "Breakpoints.Extra.Extra.Small",
-        "value": "480",
-        "type": "space"
-    },
-    "Breakpoints Extra Small": {
-        "name": "Breakpoints Extra Small",
-        "token": "Breakpoints.Extra.Small",
-        "value": "600",
-        "type": "space"
-    },
-    "Breakpoints Small": {
-        "name": "Breakpoints Small",
-        "token": "Breakpoints.Small",
-        "value": "720",
-        "type": "space"
-    },
-    "Breakpoints Medium": {
-        "name": "Breakpoints Medium",
-        "token": "Breakpoints.Medium",
-        "value": "960",
-        "type": "space"
-    },
-    "Breakpoints Large": {
-        "name": "Breakpoints Large",
-        "token": "Breakpoints.Large",
-        "value": "1200",
-        "type": "space"
-    },
-    "Breakpoints Extra Large": {
-        "name": "Breakpoints Extra Large",
-        "token": "Breakpoints.Extra.Large",
-        "value": "1400",
-        "type": "space"
-    },
-    "Breakpoints Extra Extra Large": {
-        "name": "Breakpoints Extra Extra Large",
-        "token": "Breakpoints.Extra.Extra.Large",
-        "value": "1800",
-        "type": "space"
-    },
-    "Base Font Family": {
-        "name": "Base Font Family",
-        "token": "Base.Font.Family",
-        "value": "'Tu', Arial, Helvetica, sans-serif",
-        "type": "typography"
-    },
-    "Base Font": {
-        "name": "Base Font",
-        "token": "Base.Font",
-        "value": "Tu",
-        "type": "typography"
-    },
-    "Base Letterform": {
-        "name": "Base Letterform",
-        "token": "Base.Letterform",
-        "value": "sans-serif",
-        "type": "typography"
-    },
-    "Base Fallback": {
-        "name": "Base Fallback",
-        "token": "Base.Fallback",
-        "value": "Arial",
-        "type": "typography"
-    },
-    "Brand Font Family": {
-        "name": "Brand Font Family",
-        "token": "Brand.Font.Family",
-        "value": "'Tu', Arial, Helvetica, sans-serif",
-        "type": "typography"
-    },
-    "Brand Font": {
-        "name": "Brand Font",
-        "token": "Brand.Font",
-        "value": "Tu",
-        "type": "typography"
-    },
-    "Brand Letterform": {
-        "name": "Brand Letterform",
-        "token": "Brand.Letterform",
-        "value": "sans-serif",
-        "type": "typography"
-    },
-    "Brand Fallback": {
-        "name": "Brand Fallback",
-        "token": "Brand.Fallback",
-        "value": "Arial",
-        "type": "typography"
-    },
-    "Monospace Font Family": {
-        "name": "Monospace Font Family",
-        "token": "Monospace.Font.Family",
-        "value": "Consolas, \"Andale Mono WT\", \"Andale Mono\", \"Lucida Console\", \"Lucida Sans Typewriter\", \"DejaVu Sans Mono\", \"Bitstream Vera Sans Mono\", \"Liberation Mono\", \"Nimbus Mono L\", Monaco, \"Courier New\", Courier, monospace",
-        "type": "typography"
-    },
-    "System Font Family": {
-        "name": "System Font Family",
-        "token": "System.Font.Family",
-        "value": "system, -apple-system, \".SFNSText-Regular\", \"San Francisco\", \"Roboto\", \"Oxygen-Sans\", \"Ubuntu\", \"Cantarell\", \"Segoe UI\", \"Helvetica Neue\", \"Lucida Grande\", sans-serif",
-        "type": "typography"
-    },
-    "Font Size Root": {
-        "name": "Font Size Root",
-        "token": "Font.Size.Root",
-        "value": "16",
-        "type": "typography"
-    },
-    "Font Size Default": {
-        "name": "Font Size Default",
-        "token": "Font.Size.Default",
-        "value": "16px",
-        "type": "typography"
-    },
-    "Font Size Rem": {
-        "name": "Font Size Rem",
-        "token": "Font.Size.Rem",
-        "value": "1rem",
-        "type": "typography"
-    },
-    "Font Weight Light": {
-        "name": "Font Weight Light",
-        "token": "Font.Weight.Light",
-        "value": "300",
-        "type": "typography"
-    },
-    "Font Weight Regular": {
-        "name": "Font Weight Regular",
-        "token": "Font.Weight.Regular",
-        "value": "400",
-        "type": "typography"
-    },
-    "Font Weight Medium": {
-        "name": "Font Weight Medium",
-        "token": "Font.Weight.Medium",
-        "value": "500",
-        "type": "typography"
-    },
-    "Font Weight Semi Bold": {
-        "name": "Font Weight Semi Bold",
-        "token": "Font.Weight.Semi.Bold",
-        "value": "600",
-        "type": "typography"
-    },
-    "Font Weight Bold": {
-        "name": "Font Weight Bold",
-        "token": "Font.Weight.Bold",
-        "value": "700",
-        "type": "typography"
-    },
-    "Font Weight Extra Bold": {
-        "name": "Font Weight Extra Bold",
-        "token": "Font.Weight.Extra.Bold",
-        "value": "800",
-        "type": "typography"
-    },
-    "Font Weight Black": {
-        "name": "Font Weight Black",
-        "token": "Font.Weight.Black",
-        "value": "900",
-        "type": "typography"
-    },
-    "Font Stack Display 7 Font Size": {
-        "name": "Font Stack Display 7 Font Size",
-        "token": "Font.Stack.Display.7.Font.Size",
-        "value": "61",
-        "type": "font-stack"
-    },
-    "Font Stack Display 7 Line Height": {
-        "name": "Font Stack Display 7 Line Height",
-        "token": "Font.Stack.Display.7.Line.Height",
-        "value": "76",
-        "type": "font-stack"
-    },
-    "Font Stack Display 7 Font Weight": {
-        "name": "Font Stack Display 7 Font Weight",
-        "token": "Font.Stack.Display.7.Font.Weight",
-        "value": "700",
-        "type": "font-stack"
-    },
-    "Font Stack Display 7 Font Family": {
-        "name": "Font Stack Display 7 Font Family",
-        "token": "Font.Stack.Display.7.Font.Family",
-        "value": "'Tu', Arial, Helvetica, sans-serif",
-        "type": "font-stack"
-    },
-    "Font Stack Display 6 Font Size": {
-        "name": "Font Stack Display 6 Font Size",
-        "token": "Font.Stack.Display.6.Font.Size",
-        "value": "49",
-        "type": "font-stack"
-    },
-    "Font Stack Display 6 Line Height": {
-        "name": "Font Stack Display 6 Line Height",
-        "token": "Font.Stack.Display.6.Line.Height",
-        "value": "62",
-        "type": "font-stack"
-    },
-    "Font Stack Display 6 Font Weight": {
-        "name": "Font Stack Display 6 Font Weight",
-        "token": "Font.Stack.Display.6.Font.Weight",
-        "value": "700",
-        "type": "font-stack"
-    },
-    "Font Stack Display 6 Font Family": {
-        "name": "Font Stack Display 6 Font Family",
-        "token": "Font.Stack.Display.6.Font.Family",
-        "value": "'Tu', Arial, Helvetica, sans-serif",
-        "type": "font-stack"
-    },
-    "Font Stack Display 5 Font Size": {
-        "name": "Font Stack Display 5 Font Size",
-        "token": "Font.Stack.Display.5.Font.Size",
-        "value": "39",
-        "type": "font-stack"
-    },
-    "Font Stack Display 5 Line Height": {
-        "name": "Font Stack Display 5 Line Height",
-        "token": "Font.Stack.Display.5.Line.Height",
-        "value": "50",
-        "type": "font-stack"
-    },
-    "Font Stack Display 5 Font Weight": {
-        "name": "Font Stack Display 5 Font Weight",
-        "token": "Font.Stack.Display.5.Font.Weight",
-        "value": "700",
-        "type": "font-stack"
-    },
-    "Font Stack Display 5 Font Family": {
-        "name": "Font Stack Display 5 Font Family",
-        "token": "Font.Stack.Display.5.Font.Family",
-        "value": "'Tu', Arial, Helvetica, sans-serif",
-        "type": "font-stack"
-    },
-    "Font Stack Display 4 Font Size": {
-        "name": "Font Stack Display 4 Font Size",
-        "token": "Font.Stack.Display.4.Font.Size",
-        "value": "31",
-        "type": "font-stack"
-    },
-    "Font Stack Display 4 Line Height": {
-        "name": "Font Stack Display 4 Line Height",
-        "token": "Font.Stack.Display.4.Line.Height",
-        "value": "40",
-        "type": "font-stack"
-    },
-    "Font Stack Display 4 Font Weight": {
-        "name": "Font Stack Display 4 Font Weight",
-        "token": "Font.Stack.Display.4.Font.Weight",
-        "value": "700",
-        "type": "font-stack"
-    },
-    "Font Stack Display 4 Font Family": {
-        "name": "Font Stack Display 4 Font Family",
-        "token": "Font.Stack.Display.4.Font.Family",
-        "value": "'Tu', Arial, Helvetica, sans-serif",
-        "type": "font-stack"
-    },
-    "Font Stack Display 3 Font Size": {
-        "name": "Font Stack Display 3 Font Size",
-        "token": "Font.Stack.Display.3.Font.Size",
-        "value": "25",
-        "type": "font-stack"
-    },
-    "Font Stack Display 3 Line Height": {
-        "name": "Font Stack Display 3 Line Height",
-        "token": "Font.Stack.Display.3.Line.Height",
-        "value": "32",
-        "type": "font-stack"
-    },
-    "Font Stack Display 3 Font Weight": {
-        "name": "Font Stack Display 3 Font Weight",
-        "token": "Font.Stack.Display.3.Font.Weight",
-        "value": "700",
-        "type": "font-stack"
-    },
-    "Font Stack Display 3 Font Family": {
-        "name": "Font Stack Display 3 Font Family",
-        "token": "Font.Stack.Display.3.Font.Family",
-        "value": "'Tu', Arial, Helvetica, sans-serif",
-        "type": "font-stack"
-    },
-    "Font Stack Display 2 Font Size": {
-        "name": "Font Stack Display 2 Font Size",
-        "token": "Font.Stack.Display.2.Font.Size",
-        "value": "21",
-        "type": "font-stack"
-    },
-    "Font Stack Display 2 Line Height": {
-        "name": "Font Stack Display 2 Line Height",
-        "token": "Font.Stack.Display.2.Line.Height",
-        "value": "26",
-        "type": "font-stack"
-    },
-    "Font Stack Display 2 Font Weight": {
-        "name": "Font Stack Display 2 Font Weight",
-        "token": "Font.Stack.Display.2.Font.Weight",
-        "value": "700",
-        "type": "font-stack"
-    },
-    "Font Stack Display 2 Font Family": {
-        "name": "Font Stack Display 2 Font Family",
-        "token": "Font.Stack.Display.2.Font.Family",
-        "value": "'Tu', Arial, Helvetica, sans-serif",
-        "type": "font-stack"
-    },
-    "Font Stack Display 1 Font Size": {
-        "name": "Font Stack Display 1 Font Size",
-        "token": "Font.Stack.Display.1.Font.Size",
-        "value": "19",
-        "type": "font-stack"
-    },
-    "Font Stack Display 1 Line Height": {
-        "name": "Font Stack Display 1 Line Height",
-        "token": "Font.Stack.Display.1.Line.Height",
-        "value": "26",
-        "type": "font-stack"
-    },
-    "Font Stack Display 1 Font Weight": {
-        "name": "Font Stack Display 1 Font Weight",
-        "token": "Font.Stack.Display.1.Font.Weight",
-        "value": "700",
-        "type": "font-stack"
-    },
-    "Font Stack Display 1 Font Family": {
-        "name": "Font Stack Display 1 Font Family",
-        "token": "Font.Stack.Display.1.Font.Family",
-        "value": "'Tu', Arial, Helvetica, sans-serif",
-        "type": "font-stack"
-    },
-    "Font Stack Label 1 Font Size": {
-        "name": "Font Stack Label 1 Font Size",
-        "token": "Font.Stack.Label.1.Font.Size",
-        "value": "17",
-        "type": "font-stack"
-    },
-    "Font Stack Label 1 Line Height": {
-        "name": "Font Stack Label 1 Line Height",
-        "token": "Font.Stack.Label.1.Line.Height",
-        "value": "24",
-        "type": "font-stack"
-    },
-    "Font Stack Label 1 Font Weight": {
-        "name": "Font Stack Label 1 Font Weight",
-        "token": "Font.Stack.Label.1.Font.Weight",
-        "value": "700",
-        "type": "font-stack"
-    },
-    "Font Stack Label 1 Font Family": {
-        "name": "Font Stack Label 1 Font Family",
-        "token": "Font.Stack.Label.1.Font.Family",
-        "value": "'Tu', Arial, Helvetica, sans-serif",
-        "type": "font-stack"
-    },
-    "Font Stack Label 2 Font Size": {
-        "name": "Font Stack Label 2 Font Size",
-        "token": "Font.Stack.Label.2.Font.Size",
-        "value": "17",
-        "type": "font-stack"
-    },
-    "Font Stack Label 2 Line Height": {
-        "name": "Font Stack Label 2 Line Height",
-        "token": "Font.Stack.Label.2.Line.Height",
-        "value": "24",
-        "type": "font-stack"
-    },
-    "Font Stack Label 2 Font Weight": {
-        "name": "Font Stack Label 2 Font Weight",
-        "token": "Font.Stack.Label.2.Font.Weight",
-        "value": "700",
-        "type": "font-stack"
-    },
-    "Font Stack Label 2 Font Family": {
-        "name": "Font Stack Label 2 Font Family",
-        "token": "Font.Stack.Label.2.Font.Family",
-        "value": "'Tu', Arial, Helvetica, sans-serif",
-        "type": "font-stack"
-    },
-    "Font Stack Body 2 Font Size": {
-        "name": "Font Stack Body 2 Font Size",
-        "token": "Font.Stack.Body.2.Font.Size",
-        "value": "19",
-        "type": "font-stack"
-    },
-    "Font Stack Body 2 Line Height": {
-        "name": "Font Stack Body 2 Line Height",
-        "token": "Font.Stack.Body.2.Line.Height",
-        "value": "26",
-        "type": "font-stack"
-    },
-    "Font Stack Body 2 Font Weight": {
-        "name": "Font Stack Body 2 Font Weight",
-        "token": "Font.Stack.Body.2.Font.Weight",
-        "value": "400",
-        "type": "font-stack"
-    },
-    "Font Stack Body 2 Font Family": {
-        "name": "Font Stack Body 2 Font Family",
-        "token": "Font.Stack.Body.2.Font.Family",
-        "value": "'Tu', Arial, Helvetica, sans-serif",
-        "type": "font-stack"
-    },
-    "Font Stack Body 1 Font Size": {
-        "name": "Font Stack Body 1 Font Size",
-        "token": "Font.Stack.Body.1.Font.Size",
-        "value": "17",
-        "type": "font-stack"
-    },
-    "Font Stack Body 1 Line Height": {
-        "name": "Font Stack Body 1 Line Height",
-        "token": "Font.Stack.Body.1.Line.Height",
-        "value": "24",
-        "type": "font-stack"
-    },
-    "Font Stack Body 1 Font Weight": {
-        "name": "Font Stack Body 1 Font Weight",
-        "token": "Font.Stack.Body.1.Font.Weight",
-        "value": "400",
-        "type": "font-stack"
-    },
-    "Font Stack Body 1 Font Family": {
-        "name": "Font Stack Body 1 Font Family",
-        "token": "Font.Stack.Body.1.Font.Family",
-        "value": "'Tu', Arial, Helvetica, sans-serif",
-        "type": "font-stack"
-    },
-    "Font Stack Caption Font Size": {
-        "name": "Font Stack Caption Font Size",
-        "token": "Font.Stack.Caption.Font.Size",
-        "value": "15",
-        "type": "font-stack"
-    },
-    "Font Stack Caption Line Height": {
-        "name": "Font Stack Caption Line Height",
-        "token": "Font.Stack.Caption.Line.Height",
-        "value": "22",
-        "type": "font-stack"
-    },
-    "Font Stack Caption Font Weight": {
-        "name": "Font Stack Caption Font Weight",
-        "token": "Font.Stack.Caption.Font.Weight",
-        "value": "400",
-        "type": "font-stack"
-    },
-    "Font Stack Caption Font Family": {
-        "name": "Font Stack Caption Font Family",
-        "token": "Font.Stack.Caption.Font.Family",
-        "value": "'Tu', Arial, Helvetica, sans-serif",
-        "type": "font-stack"
-    },
-    "Font Stack Button Font Size": {
-        "name": "Font Stack Button Font Size",
-        "token": "Font.Stack.Button.Font.Size",
-        "value": "17",
-        "type": "font-stack"
-    },
-    "Font Stack Button Line Height": {
-        "name": "Font Stack Button Line Height",
-        "token": "Font.Stack.Button.Line.Height",
-        "value": "24",
-        "type": "font-stack"
-    },
-    "Font Stack Button Font Weight": {
-        "name": "Font Stack Button Font Weight",
-        "token": "Font.Stack.Button.Font.Weight",
-        "value": "700",
-        "type": "font-stack"
-    },
-    "Font Stack Button Font Family": {
-        "name": "Font Stack Button Font Family",
-        "token": "Font.Stack.Button.Font.Family",
-        "value": "'Tu', Arial, Helvetica, sans-serif",
-        "type": "font-stack"
-    },
-    "Width Small": {
-        "name": "Width Small",
-        "token": "Width.Small",
-        "value": "1px",
-        "type": "border"
-    },
-    "Width Default": {
-        "name": "Width Default",
-        "token": "Width.Default",
-        "value": "2px",
-        "type": "border"
-    },
-    "Width Large": {
-        "name": "Width Large",
-        "token": "Width.Large",
-        "value": "2px",
-        "type": "border"
-    },
-    "Radius Default": {
-        "name": "Radius Default",
-        "token": "Radius.Default",
-        "value": "0",
-        "type": "border"
+    "color": {
+        "palette": {
+            "black": {
+                "value": "#000000"
+            },
+            "blue-100": {
+                "value": "#0e4174"
+            },
+            "blue-90": {
+                "value": "#114e8b"
+            },
+            "blue-80": {
+                "value": "#135ca3"
+            },
+            "blue-70": {
+                "value": "#1669ba"
+            },
+            "blue-60": {
+                "value": "#1976d2"
+            },
+            "blue-50": {
+                "value": "#428fda"
+            },
+            "blue-40": {
+                "value": "#6ca7e2"
+            },
+            "blue-30": {
+                "value": "#95c0ea"
+            },
+            "blue-20": {
+                "value": "#bfd9f2"
+            },
+            "blue-10": {
+                "value": "#e8f1fb"
+            },
+            "brand-1": {
+                "value": "#000000"
+            },
+            "brand-1-highlight": {
+                "value": "#404040"
+            },
+            "brand-1-lowlight": {
+                "value": "#f2f2f2"
+            },
+            "brand-2": {
+                "value": "#ffffff"
+            },
+            "brand-2-highlight": {
+                "value": "#f2f2f2"
+            },
+            "brand-2-lowlight": {
+                "value": "#f2f2f2"
+            },
+            "green-100": {
+                "value": "#19451c"
+            },
+            "green-90": {
+                "value": "#1f5321"
+            },
+            "green-80": {
+                "value": "#246127"
+            },
+            "green-70": {
+                "value": "#296f2c"
+            },
+            "green-60": {
+                "value": "#2e7d32"
+            },
+            "green-50": {
+                "value": "#549457"
+            },
+            "green-40": {
+                "value": "#79ac7c"
+            },
+            "green-30": {
+                "value": "#9fc3a1"
+            },
+            "green-20": {
+                "value": "#c5dbc6"
+            },
+            "green-10": {
+                "value": "#eaf2eb"
+            },
+            "grey-100": {
+                "value": "#0d0d0d"
+            },
+            "grey-90": {
+                "value": "#262626"
+            },
+            "grey-80": {
+                "value": "#404040"
+            },
+            "grey-70": {
+                "value": "#595959"
+            },
+            "grey-60": {
+                "value": "#737373"
+            },
+            "grey-50": {
+                "value": "#8c8c8c"
+            },
+            "grey-40": {
+                "value": "#a6a6a6"
+            },
+            "grey-30": {
+                "value": "#bfbfbf"
+            },
+            "grey-20": {
+                "value": "#d8d8d8"
+            },
+            "grey-10": {
+                "value": "#f2f2f2"
+            },
+            "blue": {
+                "value": "#1976d2"
+            },
+            "green": {
+                "value": "#2e7d32"
+            },
+            "red": {
+                "value": "#d50000"
+            },
+            "yellow": {
+                "value": "#ffd600"
+            },
+            "red-100": {
+                "value": "#750000"
+            },
+            "red-90": {
+                "value": "#8d0000"
+            },
+            "red-80": {
+                "value": "#a50000"
+            },
+            "red-70": {
+                "value": "#bd0000"
+            },
+            "red-60": {
+                "value": "#d50000"
+            },
+            "red-50": {
+                "value": "#dd2e2e"
+            },
+            "red-40": {
+                "value": "#e45c5c"
+            },
+            "red-30": {
+                "value": "#ec8a8a"
+            },
+            "red-20": {
+                "value": "#f3b8b8"
+            },
+            "red-10": {
+                "value": "#fbe6e6"
+            },
+            "white": {
+                "value": "#ffffff"
+            },
+            "yellow-100": {
+                "value": "#8c7600"
+            },
+            "yellow-90": {
+                "value": "#a98e00"
+            },
+            "yellow-80": {
+                "value": "#c6a600"
+            },
+            "yellow-70": {
+                "value": "#e2be00"
+            },
+            "yellow-60": {
+                "value": "#ffd600"
+            },
+            "yellow-50": {
+                "value": "#ffdd2e"
+            },
+            "yellow-40": {
+                "value": "#ffe55c"
+            },
+            "yellow-30": {
+                "value": "#ffec8a"
+            },
+            "yellow-20": {
+                "value": "#fff4b8"
+            },
+            "yellow-10": {
+                "value": "#fffbe6"
+            },
+            "black-50": {
+                "value": "#404040"
+            },
+            "black-60": {
+                "value": "#000000"
+            },
+            "cloud-100": {
+                "value": "#757676"
+            },
+            "cloud-90": {
+                "value": "#909292"
+            },
+            "cloud-80": {
+                "value": "#a5a6a7"
+            },
+            "cloud-70": {
+                "value": "#b9bbbc"
+            },
+            "cloud-60": {
+                "value": "#ced0d1"
+            },
+            "cloud-50": {
+                "value": "#d8d8d8"
+            },
+            "cloud-40": {
+                "value": "#e0e1e2"
+            },
+            "cloud-30": {
+                "value": "#e9e9ea"
+            },
+            "cloud-20": {
+                "value": "#f1f2f2"
+            },
+            "cloud-10": {
+                "value": "#fafafa"
+            },
+            "earth-100": {
+                "value": "#7d6b3d"
+            },
+            "earth-90": {
+                "value": "#927d47"
+            },
+            "earth-80": {
+                "value": "#a78e51"
+            },
+            "earth-70": {
+                "value": "#bca05b"
+            },
+            "earth-60": {
+                "value": "#d1b265"
+            },
+            "earth-50": {
+                "value": "#d9c081"
+            },
+            "earth-40": {
+                "value": "#e2ce9c"
+            },
+            "earth-30": {
+                "value": "#eadcb8"
+            },
+            "earth-20": {
+                "value": "#f2e9d4"
+            },
+            "earth-10": {
+                "value": "#faf7f0"
+            },
+            "kiss-100": {
+                "value": "#7d4d48"
+            },
+            "kiss-90": {
+                "value": "#925a54"
+            },
+            "kiss-80": {
+                "value": "#a66760"
+            },
+            "kiss-70": {
+                "value": "#bb746c"
+            },
+            "kiss-60": {
+                "value": "#d08178"
+            },
+            "kiss-50": {
+                "value": "#d99890"
+            },
+            "kiss-40": {
+                "value": "#e1aea9"
+            },
+            "kiss-30": {
+                "value": "#e9c5c1"
+            },
+            "kiss-20": {
+                "value": "#f2dcd9"
+            },
+            "kiss-10": {
+                "value": "#fff0ed"
+            },
+            "lavender-100": {
+                "value": "#525267"
+            },
+            "lavender-90": {
+                "value": "#5f6078"
+            },
+            "lavender-80": {
+                "value": "#6d6e89"
+            },
+            "lavender-70": {
+                "value": "#7a7b9a"
+            },
+            "lavender-60": {
+                "value": "#8889ab"
+            },
+            "lavender-50": {
+                "value": "#9d9eba"
+            },
+            "lavender-40": {
+                "value": "#b3b4c9"
+            },
+            "lavender-30": {
+                "value": "#c8c9d8"
+            },
+            "lavender-20": {
+                "value": "#dedee8"
+            },
+            "lavender-10": {
+                "value": "#f3f3f7"
+            },
+            "leaf-100": {
+                "value": "#486c54"
+            },
+            "leaf-90": {
+                "value": "#547e62"
+            },
+            "leaf-80": {
+                "value": "#609070"
+            },
+            "leaf-70": {
+                "value": "#6ca27e"
+            },
+            "leaf-60": {
+                "value": "#78b48c"
+            },
+            "leaf-50": {
+                "value": "#90c2a1"
+            },
+            "leaf-40": {
+                "value": "#a9cfb5"
+            },
+            "leaf-30": {
+                "value": "#c1ddca"
+            },
+            "leaf-20": {
+                "value": "#d9eadf"
+            },
+            "leaf-10": {
+                "value": "#f2f8f4"
+            },
+            "black-light": {
+                "value": "#404040"
+            },
+            "white-dark": {
+                "value": "#f2f2f2"
+            },
+            "cloud": {
+                "value": "#ced0d1"
+            },
+            "earth": {
+                "value": "#d1b265"
+            },
+            "kiss": {
+                "value": "#d08178"
+            },
+            "lavender": {
+                "value": "#8889ab"
+            },
+            "sky": {
+                "value": "#5d96bf"
+            },
+            "water": {
+                "value": "#87bab8"
+            },
+            "sky-100": {
+                "value": "#385a73"
+            },
+            "sky-90": {
+                "value": "#416986"
+            },
+            "sky-80": {
+                "value": "#4a7899"
+            },
+            "sky-70": {
+                "value": "#5487ac"
+            },
+            "sky-60": {
+                "value": "#5d96bf"
+            },
+            "sky-50": {
+                "value": "#7aa9cb"
+            },
+            "sky-40": {
+                "value": "#97bcd6"
+            },
+            "sky-30": {
+                "value": "#b5cfe2"
+            },
+            "sky-20": {
+                "value": "#d2e2ed"
+            },
+            "sky-10": {
+                "value": "#eff5f9"
+            },
+            "water-100": {
+                "value": "#51706e"
+            },
+            "water-90": {
+                "value": "#5f8281"
+            },
+            "water-80": {
+                "value": "#6c9593"
+            },
+            "water-70": {
+                "value": "#7aa7a6"
+            },
+            "water-60": {
+                "value": "#87bab8"
+            },
+            "water-50": {
+                "value": "#9dc6c5"
+            },
+            "water-40": {
+                "value": "#b2d3d2"
+            },
+            "water-30": {
+                "value": "#c8dfde"
+            },
+            "water-20": {
+                "value": "#ddeceb"
+            },
+            "water-10": {
+                "value": "#f3f8f8"
+            },
+            "white-70": {
+                "value": "#f2f2f2"
+            },
+            "white-60": {
+                "value": "#ffffff"
+            }
+        },
+        "element": {
+            "focus": {
+                "value": "#1976d2"
+            }
+        },
+        "monochrome": {
+            "white": {
+                "value": "#ffffff"
+            },
+            "lighter": {
+                "value": "#f2f2f2"
+            },
+            "light": {
+                "value": "#d8d8d8"
+            },
+            "medium": {
+                "value": "#737373"
+            },
+            "dark": {
+                "value": "#404040"
+            },
+            "darker": {
+                "value": "#262626"
+            },
+            "black": {
+                "value": "#000000"
+            },
+            "grey-v-light": {
+                "value": "#f2f2f2"
+            },
+            "grey-light": {
+                "value": "#d8d8d8"
+            },
+            "grey": {
+                "value": "#8c8c8c"
+            },
+            "grey-dark": {
+                "value": "#404040"
+            },
+            "grey-darker": {
+                "value": "#262626"
+            },
+            "white--rgb": {
+                "value": "#ffffff"
+            },
+            "lighter--rgb": {
+                "value": "#f2f2f2"
+            },
+            "light--rgb": {
+                "value": "#d8d8d8"
+            },
+            "medium--rgb": {
+                "value": "#737373"
+            },
+            "dark--rgb": {
+                "value": "#404040"
+            },
+            "darker--rgb": {
+                "value": "#262626"
+            },
+            "black--rgb": {
+                "value": "#000000"
+            }
+        },
+        "promotion": {
+            "sale": {
+                "lightest": {
+                    "value": "#fbe6e6"
+                },
+                "lighter": {
+                    "value": "#ec8a8a"
+                },
+                "light": {
+                    "value": "#dd2e2e"
+                },
+                "base": {
+                    "value": "#d50000"
+                },
+                "dark": {
+                    "value": "#bd0000"
+                },
+                "darker": {
+                    "value": "#a50000"
+                },
+                "darkest": {
+                    "value": "#8d0000"
+                }
+            },
+            "new": {
+                "lightest": {
+                    "value": "#e8f1fb"
+                },
+                "lighter": {
+                    "value": "#95c0ea"
+                },
+                "light": {
+                    "value": "#428fda"
+                },
+                "base": {
+                    "value": "#1976d2"
+                },
+                "dark": {
+                    "value": "#1669ba"
+                },
+                "darker": {
+                    "value": "#135ca3"
+                },
+                "darkest": {
+                    "value": "#114e8b"
+                }
+            }
+        },
+        "promotion-1": {
+            "base": {
+                "value": "#d50000"
+            },
+            "lightest": {
+                "value": "#fbe6e6"
+            },
+            "lighter": {
+                "value": "#ec8a8a"
+            },
+            "light": {
+                "value": "#dd2e2e"
+            }
+        },
+        "promotion-2": {
+            "base": {
+                "value": "#1976d2"
+            },
+            "lightest": {
+                "value": "#e8f1fb"
+            },
+            "lighter": {
+                "value": "#95c0ea"
+            },
+            "light": {
+                "value": "#428fda"
+            }
+        },
+        "scheme": {
+            "light": {
+                "base": {
+                    "value": "#f2f2f2"
+                },
+                "highlight": {
+                    "value": "#ffffff"
+                },
+                "on": {
+                    "base": {
+                        "value": "#404040"
+                    },
+                    "highlight": {
+                        "value": "#000000"
+                    }
+                }
+            },
+            "dark": {
+                "base": {
+                    "value": "#404040"
+                },
+                "highlight": {
+                    "value": "#000000"
+                },
+                "on": {
+                    "base": {
+                        "value": "#ffffff"
+                    },
+                    "highlight": {
+                        "value": "#ffffff"
+                    }
+                }
+            },
+            "brand-1": {
+                "base": {
+                    "value": "#000000"
+                },
+                "highlight": {
+                    "value": "#404040"
+                },
+                "lowlight": {
+                    "value": "#f2f2f2"
+                },
+                "on": {
+                    "base": {
+                        "value": "#ffffff"
+                    },
+                    "highlight": {
+                        "value": "#ffffff"
+                    },
+                    "lowlight": {
+                        "value": "#f2f2f2"
+                    }
+                }
+            },
+            "brand-2": {
+                "base": {
+                    "value": "#ffffff"
+                },
+                "highlight": {
+                    "value": "#f2f2f2"
+                },
+                "lowlight": {
+                    "value": "#f2f2f2"
+                },
+                "on": {
+                    "base": {
+                        "value": "#f2f2f2"
+                    },
+                    "highlight": {
+                        "value": "#262626"
+                    }
+                }
+            }
+        },
+        "semantic": {
+            "error": {
+                "lighter": {
+                    "value": "#fbe6e6"
+                },
+                "light": {
+                    "value": "#dd2e2e"
+                },
+                "base": {
+                    "value": "#d50000"
+                },
+                "dark": {
+                    "value": "#bd0000"
+                },
+                "darker": {
+                    "value": "#a50000"
+                },
+                "text": {
+                    "value": "#ffffff"
+                }
+            },
+            "info": {
+                "lighter": {
+                    "value": "#e8f1fb"
+                },
+                "light": {
+                    "value": "#428fda"
+                },
+                "base": {
+                    "value": "#1976d2"
+                },
+                "dark": {
+                    "value": "#1669ba"
+                },
+                "darker": {
+                    "value": "#135ca3"
+                },
+                "text": {
+                    "value": "#ffffff"
+                }
+            },
+            "success": {
+                "lighter": {
+                    "value": "#eaf2eb"
+                },
+                "light": {
+                    "value": "#549457"
+                },
+                "base": {
+                    "value": "#2e7d32"
+                },
+                "dark": {
+                    "value": "#296f2c"
+                },
+                "darker": {
+                    "value": "#246127"
+                },
+                "text": {
+                    "value": "#ffffff"
+                }
+            },
+            "warning": {
+                "lighter": {
+                    "value": "#fffbe6"
+                },
+                "light": {
+                    "value": "#ffdd2e"
+                },
+                "base": {
+                    "value": "#ffd600"
+                },
+                "dark": {
+                    "value": "#e2be00"
+                },
+                "darker": {
+                    "value": "#c6a600"
+                },
+                "text": {
+                    "value": "#404040"
+                }
+            }
+        },
+        "transparency": {
+            "black": {
+                "value": "#000000"
+            },
+            "default": {
+                "value": "#000000"
+            },
+            "white": {
+                "value": "#ffffff"
+            },
+            "brand-1": {
+                "value": "#000000"
+            },
+            "brand-2": {
+                "value": "#ffffff"
+            },
+            "error": {
+                "value": "#d50000"
+            },
+            "info": {
+                "value": "#1976d2"
+            },
+            "success": {
+                "value": "#2e7d32"
+            },
+            "warning": {
+                "value": "#ffd600"
+            },
+            "medium": {
+                "value": "#737373"
+            },
+            "dark": {
+                "value": "#404040"
+            },
+            "darker": {
+                "value": "#262626"
+            },
+            "tabs": {
+                "value": "#000000"
+            }
+        },
+        "brand-1": {
+            "base": {
+                "value": "#000000"
+            },
+            "lighter": {
+                "value": "#737373"
+            },
+            "light": {
+                "value": "#595959"
+            },
+            "dark": {
+                "value": "#404040"
+            },
+            "darker": {
+                "value": "#262626"
+            },
+            "darkest": {
+                "value": "#0d0d0d"
+            }
+        },
+        "brand-2": {
+            "base": {
+                "value": "#ffffff"
+            },
+            "lighter": {
+                "value": "#f2f2f2"
+            },
+            "light": {
+                "value": "#d8d8d8"
+            },
+            "dark": {
+                "value": "#bfbfbf"
+            },
+            "darker": {
+                "value": "#a6a6a6"
+            },
+            "darkest": {
+                "value": "#8c8c8c"
+            }
+        },
+        "campaign-1": {
+            "lightest": {
+                "value": "#f2f8f4"
+            },
+            "lighter": {
+                "value": "#c1ddca"
+            },
+            "light": {
+                "value": "#90c2a1"
+            },
+            "base": {
+                "value": "#78b48c"
+            },
+            "dark": {
+                "value": "#6ca27e"
+            },
+            "darker": {
+                "value": "#547e62"
+            },
+            "darkest": {
+                "value": "#486c54"
+            }
+        },
+        "campaign-2": {
+            "lightest": {
+                "value": "#fff0ed"
+            },
+            "lighter": {
+                "value": "#e9c5c1"
+            },
+            "light": {
+                "value": "#d99890"
+            },
+            "base": {
+                "value": "#d08178"
+            },
+            "dark": {
+                "value": "#bb746c"
+            },
+            "darker": {
+                "value": "#925a54"
+            },
+            "darkest": {
+                "value": "#7d4d48"
+            }
+        },
+        "campaign-3": {
+            "lightest": {
+                "value": "#f3f8f8"
+            },
+            "lighter": {
+                "value": "#c8dfde"
+            },
+            "light": {
+                "value": "#9dc6c5"
+            },
+            "base": {
+                "value": "#87bab8"
+            },
+            "dark": {
+                "value": "#7aa7a6"
+            },
+            "darker": {
+                "value": "#5f8281"
+            },
+            "darkest": {
+                "value": "#51706e"
+            }
+        },
+        "campaign-4": {
+            "lightest": {
+                "value": "#faf7f0"
+            },
+            "lighter": {
+                "value": "#eadcb8"
+            },
+            "light": {
+                "value": "#d9c081"
+            },
+            "base": {
+                "value": "#d1b265"
+            },
+            "dark": {
+                "value": "#bca05b"
+            },
+            "darker": {
+                "value": "#927d47"
+            },
+            "darkest": {
+                "value": "#7d6b3d"
+            }
+        },
+        "campaign-5": {
+            "lightest": {
+                "value": "#f3f3f7"
+            },
+            "lighter": {
+                "value": "#c8c9d8"
+            },
+            "light": {
+                "value": "#9d9eba"
+            },
+            "base": {
+                "value": "#8889ab"
+            },
+            "dark": {
+                "value": "#7a7b9a"
+            },
+            "darker": {
+                "value": "#5f6078"
+            },
+            "darkest": {
+                "value": "#525267"
+            }
+        },
+        "campaign-6": {
+            "lightest": {
+                "value": "#eff5f9"
+            },
+            "lighter": {
+                "value": "#b5cfe2"
+            },
+            "light": {
+                "value": "#7aa9cb"
+            },
+            "base": {
+                "value": "#5d96bf"
+            },
+            "dark": {
+                "value": "#5487ac"
+            },
+            "darker": {
+                "value": "#416986"
+            },
+            "darkest": {
+                "value": "#385a73"
+            }
+        },
+        "campaign-7": {
+            "lightest": {
+                "value": "#fafafa"
+            },
+            "lighter": {
+                "value": "#e9e9ea"
+            },
+            "light": {
+                "value": "#d8d8d8"
+            },
+            "base": {
+                "value": "#ced0d1"
+            },
+            "dark": {
+                "value": "#b9bbbc"
+            },
+            "darker": {
+                "value": "#909292"
+            },
+            "darkest": {
+                "value": "#757676"
+            }
+        },
+        "mode": {
+            "default": {
+                "surface": {
+                    "background": {
+                        "value": "#ffffff"
+                    },
+                    "foreground": {
+                        "value": "#ffffff"
+                    }
+                },
+                "border": {
+                    "value": "#737373"
+                },
+                "scheme": {
+                    "base": {
+                        "value": "#262626"
+                    },
+                    "highlight": {
+                        "value": "#000000"
+                    },
+                    "on": {
+                        "base": {
+                            "value": "#ffffff"
+                        },
+                        "highlight": {
+                            "value": "#ffffff"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "mode": {
+        "dark": {
+            "background": {
+                "value": "#262626"
+            },
+            "base": {
+                "value": "#f2f2f2"
+            },
+            "base-inverse": {
+                "value": "#404040"
+            },
+            "border": {
+                "value": "#404040"
+            },
+            "border-interactive": {
+                "value": "#737373"
+            },
+            "border-interactive-highlight": {
+                "value": "#404040"
+            },
+            "footer-background": {
+                "value": "#ffffff"
+            },
+            "footer-text": {
+                "value": "#404040"
+            },
+            "foreground": {
+                "value": "#262626"
+            },
+            "header-background": {
+                "value": "#262626"
+            },
+            "header-text": {
+                "value": "#f2f2f2"
+            },
+            "highlight": {
+                "value": "#000000"
+            },
+            "highlight-inverse": {
+                "value": "#000000"
+            }
+        },
+        "default": {
+            "background": {
+                "value": "#f2f2f2"
+            },
+            "base": {
+                "value": "#404040"
+            },
+            "base-inverse": {
+                "value": "#404040"
+            },
+            "border": {
+                "value": "#d8d8d8"
+            },
+            "border-interactive": {
+                "value": "#737373"
+            },
+            "border-interactive-highlight": {
+                "value": "#404040"
+            },
+            "footer-background": {
+                "value": "#262626"
+            },
+            "footer-text": {
+                "value": "#f2f2f2"
+            },
+            "foreground": {
+                "value": "#ffffff"
+            },
+            "header-background": {
+                "value": "#ffffff"
+            },
+            "header-text": {
+                "value": "#404040"
+            },
+            "highlight": {
+                "value": "#404040"
+            },
+            "highlight-inverse": {
+                "value": "#000000"
+            },
+            "lowlight": {
+                "value": "#000000"
+            }
+        }
+    },
+    "surface": {
+        "light": {
+            "background": {
+                "value": "#f2f2f2"
+            },
+            "base": {
+                "value": "#404040"
+            },
+            "border": {
+                "value": "#d8d8d8"
+            },
+            "highlight": {
+                "value": "#404040"
+            },
+            "lowlight": {
+                "value": "#000000"
+            },
+            "interactive": {
+                "value": "#737373"
+            },
+            "interactive-hover": {
+                "value": "#404040"
+            }
+        },
+        "white": {
+            "background": {
+                "value": "#ffffff"
+            },
+            "base": {
+                "value": "#404040"
+            },
+            "border": {
+                "value": "#d8d8d8"
+            },
+            "highlight": {
+                "value": "#000000"
+            }
+        },
+        "dark": {
+            "background": {
+                "value": "#262626"
+            },
+            "base": {
+                "value": "#f2f2f2"
+            },
+            "border": {
+                "value": "#404040"
+            },
+            "highlight": {
+                "value": "#ffffff"
+            },
+            "interactive": {
+                "value": "#737373"
+            },
+            "interactive-hover": {
+                "value": "#404040"
+            }
+        },
+        "grey": {
+            "background": {
+                "value": "#262626"
+            },
+            "base": {
+                "value": "#f2f2f2"
+            },
+            "border": {
+                "value": "#404040"
+            },
+            "highlight": {
+                "value": "#000000"
+            }
+        }
+    },
+    "modifier": {
+        "border": {
+            "width": {
+                "value": "1px"
+            },
+            "width-large": {
+                "value": "2px"
+            },
+            "width-extra-large": {
+                "value": "6px"
+            },
+            "radius": {
+                "value": "2px"
+            },
+            "radius-large": {
+                "value": "4px"
+            }
+        },
+        "border-interactive": {
+            "width": {
+                "value": "1px"
+            }
+        },
+        "button": {
+            "border": {
+                "value": "2px"
+            },
+            "border-radius": {
+                "value": "2px"
+            },
+            "color": {
+                "base": {
+                    "value": "#000000"
+                },
+                "highlight": {
+                    "value": "#404040"
+                },
+                "lowlight": {
+                    "value": "#f2f2f2"
+                },
+                "on": {
+                    "base": {
+                        "value": "#ffffff"
+                    },
+                    "highlight": {
+                        "value": "#ffffff"
+                    },
+                    "lowlight": {
+                        "value": "#f2f2f2"
+                    }
+                }
+            },
+            "padding": {
+                "horizontal": {
+                    "value": 24
+                },
+                "vertical": {
+                    "value": 8
+                }
+            }
+        },
+        "focus-ring": {
+            "focus-width": {
+                "value": "3px"
+            },
+            "color": {
+                "value": "#1976d2"
+            }
+        },
+        "footer": {
+            "background": {
+                "value": "#404040"
+            },
+            "text": {
+                "value": "#ffffff"
+            }
+        },
+        "header": {
+            "background": {
+                "value": "#ffffff"
+            }
+        },
+        "global-bar": {
+            "height": {
+                "value": "36px"
+            }
+        },
+        "link": {
+            "color": {
+                "brand": {
+                    "value": "#000000"
+                },
+                "brand-highlight": {
+                    "value": "#404040"
+                },
+                "brand-lowlight": {
+                    "value": "#f2f2f2"
+                }
+            },
+            "font-weight": {
+                "regular": {
+                    "value": 400
+                },
+                "brand": {
+                    "value": 400
+                }
+            }
+        },
+        "transition": {
+            "duration": {
+                "value": "0.2s"
+            },
+            "duration-long": {
+                "value": "0.4s"
+            },
+            "timing-function": {
+                "default": {
+                    "value": "ease-out"
+                }
+            }
+        }
+    },
+    "opacity": {
+        "default": {
+            "value": "0.7"
+        },
+        "light": {
+            "value": "0.15"
+        },
+        "disabled": {
+            "value": "0.35"
+        },
+        "background": {
+            "value": "0.06"
+        },
+        "none": {
+            "value": "0"
+        }
+    },
+    "overlay": {
+        "color": {
+            "value": "#000000"
+        },
+        "opacity": {
+            "value": "0.7"
+        }
+    },
+    "space": {
+        "baseline": {
+            "grid": {
+                "value": 8
+            },
+            "condensed": {
+                "value": 4
+            }
+        },
+        "fixed-width": {
+            "extra-small": {
+                "value": 800
+            },
+            "small": {
+                "value": 1280
+            },
+            "medium": {
+                "value": 1440
+            },
+            "large": {
+                "value": 1800
+            }
+        },
+        "size": {
+            "small": {
+                "value": 24
+            },
+            "medium": {
+                "value": 48
+            },
+            "large": {
+                "value": 80
+            }
+        },
+        "spacing": {
+            "default": {
+                "value": 8
+            },
+            "extra-small": {
+                "value": 4
+            },
+            "small": {
+                "value": 8
+            },
+            "medium": {
+                "value": 16
+            },
+            "large": {
+                "value": 24
+            },
+            "extra-large": {
+                "value": 32
+            },
+            "half": {
+                "value": 4
+            },
+            "x1": {
+                "value": 8
+            },
+            "x2": {
+                "value": 16
+            },
+            "x3": {
+                "value": 24
+            },
+            "x4": {
+                "value": 32
+            },
+            "x5": {
+                "value": 40
+            },
+            "x6": {
+                "value": 48
+            },
+            "x7": {
+                "value": 56
+            },
+            "x8": {
+                "value": 64
+            },
+            "x9": {
+                "value": 72
+            },
+            "x10": {
+                "value": 80
+            }
+        },
+        "breakpoints": {
+            "extra-extra-small": {
+                "value": 480
+            },
+            "extra-small": {
+                "value": 600
+            },
+            "small": {
+                "value": 720
+            },
+            "medium": {
+                "value": 960
+            },
+            "large": {
+                "value": 1200
+            },
+            "extra-large": {
+                "value": 1400
+            },
+            "extra-extra-large": {
+                "value": 1800
+            }
+        }
+    },
+    "typography": {
+        "base": {
+            "font-family": {
+                "value": "Inhabit"
+            },
+            "font": {
+                "value": "Inhabit"
+            },
+            "letterform": {
+                "value": "sans-serif"
+            }
+        },
+        "brand": {
+            "font-family": {
+                "value": "Inhabit, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+            },
+            "font": {
+                "value": "Inhabit"
+            },
+            "letterform": {
+                "value": "sans-serif"
+            }
+        },
+        "monospace": {
+            "font-family": {
+                "value": "Consolas, \"Andale Mono WT\", \"Andale Mono\", \"Lucida Console\", \"Lucida Sans Typewriter\", \"DejaVu Sans Mono\", \"Bitstream Vera Sans Mono\", \"Liberation Mono\", \"Nimbus Mono L\", Monaco, \"Courier New\", Courier, monospace"
+            }
+        },
+        "system": {
+            "font-family": {
+                "value": "system, -apple-system, \".SFNSText-Regular\", \"San Francisco\", \"Roboto\", \"Oxygen-Sans\", \"Ubuntu\", \"Cantarell\", \"Segoe UI\", \"Helvetica Neue\", \"Lucida Grande\", sans-serif"
+            }
+        },
+        "font-size": {
+            "root": {
+                "value": 16
+            },
+            "default": {
+                "value": "16px"
+            },
+            "rem": {
+                "value": "1rem"
+            }
+        },
+        "font-weight": {
+            "light": {
+                "value": 300
+            },
+            "regular": {
+                "value": 400
+            },
+            "medium": {
+                "value": 500
+            },
+            "semi-bold": {
+                "value": 600
+            },
+            "bold": {
+                "value": 700
+            },
+            "extra-bold": {
+                "value": 800
+            },
+            "black": {
+                "value": 900
+            }
+        }
+    },
+    "font-stack": {
+        "display-7": {
+            "font-size": {
+                "value": 60
+            },
+            "line-height": {
+                "value": 76
+            },
+            "font-weight": {
+                "value": 700
+            },
+            "font-family": {
+                "value": "Inhabit, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+            }
+        },
+        "display-6": {
+            "font-size": {
+                "value": 48
+            },
+            "line-height": {
+                "value": 62
+            },
+            "font-weight": {
+                "value": 700
+            },
+            "font-family": {
+                "value": "Inhabit, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+            }
+        },
+        "display-5": {
+            "font-size": {
+                "value": 38
+            },
+            "line-height": {
+                "value": 50
+            },
+            "font-weight": {
+                "value": 700
+            },
+            "font-family": {
+                "value": "Inhabit, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+            }
+        },
+        "display-4": {
+            "font-size": {
+                "value": 30
+            },
+            "line-height": {
+                "value": 40
+            },
+            "font-weight": {
+                "value": 700
+            },
+            "font-family": {
+                "value": "Inhabit, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+            }
+        },
+        "display-3": {
+            "font-size": {
+                "value": 24
+            },
+            "line-height": {
+                "value": 32
+            },
+            "font-weight": {
+                "value": 700
+            },
+            "font-family": {
+                "value": "Inhabit, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+            }
+        },
+        "display-2": {
+            "font-size": {
+                "value": 20
+            },
+            "line-height": {
+                "value": 26
+            },
+            "font-weight": {
+                "value": 700
+            },
+            "font-family": {
+                "value": "Inhabit, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+            }
+        },
+        "display-1": {
+            "font-size": {
+                "value": 18
+            },
+            "line-height": {
+                "value": 26
+            },
+            "font-weight": {
+                "value": 700
+            },
+            "font-family": {
+                "value": "Inhabit, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+            }
+        },
+        "label-1": {
+            "font-size": {
+                "value": 17
+            },
+            "line-height": {
+                "value": 24
+            },
+            "font-weight": {
+                "value": 700
+            },
+            "font-family": {
+                "value": "Inhabit, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+            }
+        },
+        "label-2": {
+            "font-size": {
+                "value": 16
+            },
+            "line-height": {
+                "value": 24
+            },
+            "font-weight": {
+                "value": 700
+            },
+            "font-family": {
+                "value": "Inhabit, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+            }
+        },
+        "body-2": {
+            "font-size": {
+                "value": 18
+            },
+            "line-height": {
+                "value": 26
+            },
+            "font-weight": {
+                "value": 400
+            },
+            "font-family": {
+                "value": "Inhabit"
+            }
+        },
+        "body-1": {
+            "font-size": {
+                "value": 16
+            },
+            "line-height": {
+                "value": 24
+            },
+            "font-weight": {
+                "value": 400
+            },
+            "font-family": {
+                "value": "Inhabit"
+            }
+        },
+        "caption": {
+            "font-size": {
+                "value": 14
+            },
+            "line-height": {
+                "value": 22
+            },
+            "font-weight": {
+                "value": 400
+            },
+            "font-family": {
+                "value": "Inhabit, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+            }
+        },
+        "button": {
+            "font-size": {
+                "value": 17
+            },
+            "line-height": {
+                "value": 24
+            },
+            "font-weight": {
+                "value": 700
+            },
+            "font-family": {
+                "value": "Inhabit, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+            }
+        }
     }
 }
-}
+
 

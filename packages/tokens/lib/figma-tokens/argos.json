@@ -1,0 +1,3758 @@
+{
+  "color": {
+    "palette": {
+      "black": {
+        "value": "#000000",
+        "filePath": "./src/global/color/black.json",
+        "isSource": false,
+        "original": {
+          "value": "#000000"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "black"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "black"
+        }
+      },
+      "blue-100": {
+        "value": "#0E4174",
+        "filePath": "./src/global/color/blue.json",
+        "isSource": false,
+        "original": {
+          "value": "#0E4174"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "blue",
+          "subitem": "100"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "blue-100"
+        }
+      },
+      "blue-90": {
+        "value": "#114E8B",
+        "filePath": "./src/global/color/blue.json",
+        "isSource": false,
+        "original": {
+          "value": "#114E8B"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "blue",
+          "subitem": "90"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "blue-90"
+        }
+      },
+      "blue-80": {
+        "value": "#135CA3",
+        "filePath": "./src/global/color/blue.json",
+        "isSource": false,
+        "original": {
+          "value": "#135CA3"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "blue",
+          "subitem": "80"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "blue-80"
+        }
+      },
+      "blue-70": {
+        "value": "#08305F",
+        "filePath": "./src/argos/color/blue.json",
+        "isSource": true,
+        "original": {
+          "value": "#08305F"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "blue",
+          "subitem": "70"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "blue-70"
+        }
+      },
+      "blue-60": {
+        "value": "#0C509F",
+        "filePath": "./src/argos/color/blue.json",
+        "isSource": true,
+        "original": {
+          "value": "#0C509F"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "blue",
+          "subitem": "60"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "blue-60"
+        }
+      },
+      "blue-50": {
+        "value": "#E4F1FF",
+        "filePath": "./src/argos/color/blue.json",
+        "isSource": true,
+        "original": {
+          "value": "#E4F1FF"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "blue",
+          "subitem": "50"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "blue-50"
+        }
+      },
+      "blue-40": {
+        "value": "#6CA7E2",
+        "filePath": "./src/global/color/blue.json",
+        "isSource": false,
+        "original": {
+          "value": "#6CA7E2"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "blue",
+          "subitem": "40"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "blue-40"
+        }
+      },
+      "blue-30": {
+        "value": "#95C0EA",
+        "filePath": "./src/global/color/blue.json",
+        "isSource": false,
+        "original": {
+          "value": "#95C0EA"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "blue",
+          "subitem": "30"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "blue-30"
+        }
+      },
+      "blue-20": {
+        "value": "#BFD9F2",
+        "filePath": "./src/global/color/blue.json",
+        "isSource": false,
+        "original": {
+          "value": "#BFD9F2"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "blue",
+          "subitem": "20"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "blue-20"
+        }
+      },
+      "blue-10": {
+        "value": "#E8F1FB",
+        "filePath": "./src/global/color/blue.json",
+        "isSource": false,
+        "original": {
+          "value": "#E8F1FB"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "blue",
+          "subitem": "10"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "blue-10"
+        }
+      },
+      "brand-1": {
+        "value": "{color.palette.blue-60}",
+        "comment": "Generally set to be the core UI colour",
+        "filePath": "./src/argos/color/brand-1.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.blue-60}",
+          "comment": "Generally set to be the core UI colour"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "brand-1"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "brand-1"
+        }
+      },
+      "brand-1-highlight": {
+        "value": "{color.palette.blue-70}",
+        "comment": "Used to add emphasis. Example: Filled Button hover/focus background colour",
+        "filePath": "./src/argos/color/brand-1.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.blue-70}",
+          "comment": "Used to add emphasis. Example: Filled Button hover/focus background colour"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "brand-1-highlight"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "brand-1-highlight"
+        }
+      },
+      "brand-1-lowlight": {
+        "value": "{color.palette.blue-50}",
+        "comment": "Used to add an alternative emphasis. Example: Transparent Button hover/focus background colour",
+        "filePath": "./src/argos/color/brand-1.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.blue-50}",
+          "comment": "Used to add an alternative emphasis. Example: Transparent Button hover/focus background colour"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "brand-1-lowlight"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "brand-1-lowlight"
+        }
+      },
+      "brand-2": {
+        "value": "{color.palette.red-60}",
+        "filePath": "./src/argos/color/brand-2.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.red-60}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "brand-2"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "brand-2"
+        }
+      },
+      "brand-2-highlight": {
+        "value": "{color.palette.red-70}",
+        "filePath": "./src/argos/color/brand-2.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.red-70}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "brand-2-highlight"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "brand-2-highlight"
+        }
+      },
+      "brand-2-lowlight": {
+        "value": "{color.palette.red-50}",
+        "filePath": "./src/argos/color/brand-2.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.red-50}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "brand-2-lowlight"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "brand-2-lowlight"
+        }
+      },
+      "green-100": {
+        "value": "#19451C",
+        "filePath": "./src/global/color/green.json",
+        "isSource": false,
+        "original": {
+          "value": "#19451C"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "green",
+          "subitem": "100"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "green-100"
+        }
+      },
+      "green-90": {
+        "value": "#1F5321",
+        "filePath": "./src/global/color/green.json",
+        "isSource": false,
+        "original": {
+          "value": "#1F5321"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "green",
+          "subitem": "90"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "green-90"
+        }
+      },
+      "green-80": {
+        "value": "#246127",
+        "filePath": "./src/global/color/green.json",
+        "isSource": false,
+        "original": {
+          "value": "#246127"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "green",
+          "subitem": "80"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "green-80"
+        }
+      },
+      "green-70": {
+        "value": "#045228",
+        "filePath": "./src/argos/color/green.json",
+        "isSource": true,
+        "original": {
+          "value": "#045228"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "green",
+          "subitem": "70"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "green-70"
+        }
+      },
+      "green-60": {
+        "value": "#008542",
+        "filePath": "./src/argos/color/green.json",
+        "isSource": true,
+        "original": {
+          "value": "#008542"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "green",
+          "subitem": "60"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "green-60"
+        }
+      },
+      "green-50": {
+        "value": "#EDFFF6",
+        "filePath": "./src/argos/color/green.json",
+        "isSource": true,
+        "original": {
+          "value": "#EDFFF6"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "green",
+          "subitem": "50"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "green-50"
+        }
+      },
+      "green-40": {
+        "value": "#79AC7C",
+        "filePath": "./src/global/color/green.json",
+        "isSource": false,
+        "original": {
+          "value": "#79AC7C"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "green",
+          "subitem": "40"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "green-40"
+        }
+      },
+      "green-30": {
+        "value": "#9FC3A1",
+        "filePath": "./src/global/color/green.json",
+        "isSource": false,
+        "original": {
+          "value": "#9FC3A1"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "green",
+          "subitem": "30"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "green-30"
+        }
+      },
+      "green-20": {
+        "value": "#C5DBC6",
+        "filePath": "./src/global/color/green.json",
+        "isSource": false,
+        "original": {
+          "value": "#C5DBC6"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "green",
+          "subitem": "20"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "green-20"
+        }
+      },
+      "green-10": {
+        "value": "#EAF2EB",
+        "filePath": "./src/global/color/green.json",
+        "isSource": false,
+        "original": {
+          "value": "#EAF2EB"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "green",
+          "subitem": "10"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "green-10"
+        }
+      },
+      "grey-100": {
+        "value": "#0D0D0D",
+        "filePath": "./src/global/color/grey.json",
+        "isSource": false,
+        "original": {
+          "value": "#0D0D0D"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "grey",
+          "subitem": "100"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "grey-100"
+        }
+      },
+      "grey-90": {
+        "value": "#262626",
+        "filePath": "./src/global/color/grey.json",
+        "isSource": false,
+        "original": {
+          "value": "#262626"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "grey",
+          "subitem": "90"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "grey-90"
+        }
+      },
+      "grey-80": {
+        "value": "#404040",
+        "filePath": "./src/global/color/grey.json",
+        "isSource": false,
+        "original": {
+          "value": "#404040"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "grey",
+          "subitem": "80"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "grey-80"
+        }
+      },
+      "grey-70": {
+        "value": "#595959",
+        "filePath": "./src/global/color/grey.json",
+        "isSource": false,
+        "original": {
+          "value": "#595959"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "grey",
+          "subitem": "70"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "grey-70"
+        }
+      },
+      "grey-60": {
+        "value": "#737373",
+        "filePath": "./src/global/color/grey.json",
+        "isSource": false,
+        "original": {
+          "value": "#737373"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "grey",
+          "subitem": "60"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "grey-60"
+        }
+      },
+      "grey-50": {
+        "value": "#8C8C8C",
+        "filePath": "./src/global/color/grey.json",
+        "isSource": false,
+        "original": {
+          "value": "#8C8C8C"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "grey",
+          "subitem": "50"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "grey-50"
+        }
+      },
+      "grey-40": {
+        "value": "#A6A6A6",
+        "filePath": "./src/global/color/grey.json",
+        "isSource": false,
+        "original": {
+          "value": "#A6A6A6"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "grey",
+          "subitem": "40"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "grey-40"
+        }
+      },
+      "grey-30": {
+        "value": "#BFBFBF",
+        "filePath": "./src/global/color/grey.json",
+        "isSource": false,
+        "original": {
+          "value": "#BFBFBF"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "grey",
+          "subitem": "30"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "grey-30"
+        }
+      },
+      "grey-20": {
+        "value": "#D8D8D8",
+        "filePath": "./src/global/color/grey.json",
+        "isSource": false,
+        "original": {
+          "value": "#D8D8D8"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "grey",
+          "subitem": "20"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "grey-20"
+        }
+      },
+      "grey-10": {
+        "value": "#F2F2F2",
+        "filePath": "./src/global/color/grey.json",
+        "isSource": false,
+        "original": {
+          "value": "#F2F2F2"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "grey",
+          "subitem": "10"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "grey-10"
+        }
+      },
+      "blue": {
+        "value": "{color.palette.blue-60}",
+        "filePath": "./src/argos/color/palette.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.blue-60}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "blue"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "blue"
+        }
+      },
+      "green": {
+        "value": "{color.palette.green-60}",
+        "filePath": "./src/argos/color/palette.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.green-60}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "green"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "green"
+        }
+      },
+      "red": {
+        "value": "{color.palette.red-60}",
+        "filePath": "./src/argos/color/palette.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.red-60}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "red"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "red"
+        }
+      },
+      "yellow": {
+        "value": "{color.palette.yellow-60}",
+        "filePath": "./src/argos/color/palette.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.yellow-60}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "yellow"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "yellow"
+        }
+      },
+      "red-100": {
+        "value": "#750000",
+        "filePath": "./src/global/color/red.json",
+        "isSource": false,
+        "original": {
+          "value": "#750000"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "red",
+          "subitem": "100"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "red-100"
+        }
+      },
+      "red-90": {
+        "value": "#8D0000",
+        "filePath": "./src/global/color/red.json",
+        "isSource": false,
+        "original": {
+          "value": "#8D0000"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "red",
+          "subitem": "90"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "red-90"
+        }
+      },
+      "red-80": {
+        "value": "#A50000",
+        "filePath": "./src/global/color/red.json",
+        "isSource": false,
+        "original": {
+          "value": "#A50000"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "red",
+          "subitem": "80"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "red-80"
+        }
+      },
+      "red-70": {
+        "value": "#7F150D",
+        "filePath": "./src/argos/color/red.json",
+        "isSource": true,
+        "original": {
+          "value": "#7F150D"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "red",
+          "subitem": "70"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "red-70"
+        }
+      },
+      "red-60": {
+        "value": "#D42114",
+        "filePath": "./src/argos/color/red.json",
+        "isSource": true,
+        "original": {
+          "value": "#D42114"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "red",
+          "subitem": "60"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "red-60"
+        }
+      },
+      "red-50": {
+        "value": "#FFEEED",
+        "filePath": "./src/argos/color/red.json",
+        "isSource": true,
+        "original": {
+          "value": "#FFEEED"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "red",
+          "subitem": "50"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "red-50"
+        }
+      },
+      "red-40": {
+        "value": "#E45C5C",
+        "filePath": "./src/global/color/red.json",
+        "isSource": false,
+        "original": {
+          "value": "#E45C5C"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "red",
+          "subitem": "40"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "red-40"
+        }
+      },
+      "red-30": {
+        "value": "#EC8A8A",
+        "filePath": "./src/global/color/red.json",
+        "isSource": false,
+        "original": {
+          "value": "#EC8A8A"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "red",
+          "subitem": "30"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "red-30"
+        }
+      },
+      "red-20": {
+        "value": "#F3B8B8",
+        "filePath": "./src/global/color/red.json",
+        "isSource": false,
+        "original": {
+          "value": "#F3B8B8"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "red",
+          "subitem": "20"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "red-20"
+        }
+      },
+      "red-10": {
+        "value": "#FBE6E6",
+        "filePath": "./src/global/color/red.json",
+        "isSource": false,
+        "original": {
+          "value": "#FBE6E6"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "red",
+          "subitem": "10"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "red-10"
+        }
+      },
+      "white": {
+        "value": "#FFFFFF",
+        "filePath": "./src/global/color/white.json",
+        "isSource": false,
+        "original": {
+          "value": "#FFFFFF"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "white"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "white"
+        }
+      },
+      "yellow-100": {
+        "value": "#8C7600",
+        "filePath": "./src/global/color/yellow.json",
+        "isSource": false,
+        "original": {
+          "value": "#8C7600"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "yellow",
+          "subitem": "100"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "yellow-100"
+        }
+      },
+      "yellow-90": {
+        "value": "#A98E00",
+        "filePath": "./src/global/color/yellow.json",
+        "isSource": false,
+        "original": {
+          "value": "#A98E00"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "yellow",
+          "subitem": "90"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "yellow-90"
+        }
+      },
+      "yellow-80": {
+        "value": "#C6A600",
+        "filePath": "./src/global/color/yellow.json",
+        "isSource": false,
+        "original": {
+          "value": "#C6A600"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "yellow",
+          "subitem": "80"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "yellow-80"
+        }
+      },
+      "yellow-70": {
+        "value": "#BF9F18",
+        "filePath": "./src/argos/color/yellow.json",
+        "isSource": true,
+        "original": {
+          "value": "#BF9F18"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "yellow",
+          "subitem": "70"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "yellow-70"
+        }
+      },
+      "yellow-60": {
+        "value": "#EFC71D",
+        "filePath": "./src/argos/color/yellow.json",
+        "isSource": true,
+        "original": {
+          "value": "#EFC71D"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "yellow",
+          "subitem": "60"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "yellow-60"
+        }
+      },
+      "yellow-50": {
+        "value": "#FFDD2E",
+        "filePath": "./src/global/color/yellow.json",
+        "isSource": false,
+        "original": {
+          "value": "#FFDD2E"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "yellow",
+          "subitem": "50"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "yellow-50"
+        }
+      },
+      "yellow-40": {
+        "value": "#FFE55C",
+        "filePath": "./src/global/color/yellow.json",
+        "isSource": false,
+        "original": {
+          "value": "#FFE55C"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "yellow",
+          "subitem": "40"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "yellow-40"
+        }
+      },
+      "yellow-30": {
+        "value": "#FFEC8A",
+        "filePath": "./src/global/color/yellow.json",
+        "isSource": false,
+        "original": {
+          "value": "#FFEC8A"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "yellow",
+          "subitem": "30"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "yellow-30"
+        }
+      },
+      "yellow-20": {
+        "value": "#FFF4B8",
+        "filePath": "./src/global/color/yellow.json",
+        "isSource": false,
+        "original": {
+          "value": "#FFF4B8"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "yellow",
+          "subitem": "20"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "yellow-20"
+        }
+      },
+      "yellow-10": {
+        "value": "#FFFBE6",
+        "filePath": "./src/global/color/yellow.json",
+        "isSource": false,
+        "original": {
+          "value": "#FFFBE6"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "yellow",
+          "subitem": "10"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "yellow-10"
+        }
+      },
+      "brand-3": {
+        "value": "{color.palette.green-60}",
+        "filePath": "./src/argos/color/brand-3.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.green-60}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "brand-3"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "brand-3"
+        }
+      },
+      "brand-3-highlight": {
+        "value": "{color.palette.green-70}",
+        "filePath": "./src/argos/color/brand-3.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.green-70}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "brand-3-highlight"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "brand-3-highlight"
+        }
+      },
+      "brand-3-lowlight": {
+        "value": "{color.palette.green-50}",
+        "filePath": "./src/argos/color/brand-3.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.green-50}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "brand-3-lowlight"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "brand-3-lowlight"
+        }
+      },
+      "brand-4": {
+        "value": "{color.palette.yellow-60}",
+        "filePath": "./src/argos/color/brand-4.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.yellow-60}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "brand-4"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "brand-4"
+        }
+      },
+      "brand-4-highlight": {
+        "value": "{color.palette.yellow-70}",
+        "filePath": "./src/argos/color/brand-4.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.yellow-70}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "brand-4-highlight"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "brand-4-highlight"
+        }
+      },
+      "green-light": {
+        "value": "{color.palette.green-50}",
+        "filePath": "./src/argos/color/palette.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.green-50}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "green-light"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "green-light"
+        }
+      },
+      "green-dark": {
+        "value": "{color.palette.green-70}",
+        "filePath": "./src/argos/color/palette.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.green-70}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "green-dark"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "green-dark"
+        }
+      },
+      "blue-light": {
+        "value": "{color.palette.blue-50}",
+        "filePath": "./src/argos/color/palette.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.blue-50}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "blue-light"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "blue-light"
+        }
+      },
+      "blue-dark": {
+        "value": "{color.palette.blue-70}",
+        "filePath": "./src/argos/color/palette.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.blue-70}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "blue-dark"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "blue-dark"
+        }
+      },
+      "red-light": {
+        "value": "{color.palette.red-50}",
+        "filePath": "./src/argos/color/palette.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.red-50}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "red-light"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "red-light"
+        }
+      },
+      "red-dark": {
+        "value": "{color.palette.red-70}",
+        "filePath": "./src/argos/color/palette.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.red-70}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "red-dark"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "red-dark"
+        }
+      },
+      "yellow-dark": {
+        "value": "{color.palette.yellow-70}",
+        "filePath": "./src/argos/color/palette.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.yellow-70}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "yellow-dark"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "yellow-dark"
+        }
+      }
+    },
+    "element": {
+      "focus": {
+        "value": "{color.palette.blue}",
+        "modify": "rgb",
+        "alpha": "0.7",
+        "comment": "The focus outline colour around components. For example: focus ring color",
+        "filePath": "./src/global/color/element.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.blue}",
+          "modify": "rgb",
+          "alpha": "{opacity.default.value}",
+          "comment": "The focus outline colour around components. For example: focus ring color"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "element",
+          "item": "focus"
+        },
+        "path": {
+          "0": "color",
+          "1": "element",
+          "2": "focus"
+        }
+      }
+    },
+    "monochrome": {
+      "white": {
+        "value": "#FFFFFF",
+        "filePath": "./src/global/color/monochrome.json",
+        "isSource": false,
+        "original": {
+          "value": "#FFFFFF"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "monochrome",
+          "item": "white"
+        },
+        "path": {
+          "0": "color",
+          "1": "monochrome",
+          "2": "white"
+        }
+      },
+      "lighter": {
+        "value": "{color.palette.grey-10}",
+        "filePath": "./src/global/color/monochrome.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.grey-10}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "monochrome",
+          "item": "lighter"
+        },
+        "path": {
+          "0": "color",
+          "1": "monochrome",
+          "2": "lighter"
+        }
+      },
+      "light": {
+        "value": "{color.palette.grey-20}",
+        "filePath": "./src/global/color/monochrome.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.grey-20}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "monochrome",
+          "item": "light"
+        },
+        "path": {
+          "0": "color",
+          "1": "monochrome",
+          "2": "light"
+        }
+      },
+      "medium": {
+        "value": "{color.palette.grey-60}",
+        "filePath": "./src/global/color/monochrome.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.grey-60}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "monochrome",
+          "item": "medium"
+        },
+        "path": {
+          "0": "color",
+          "1": "monochrome",
+          "2": "medium"
+        }
+      },
+      "dark": {
+        "value": "{color.palette.grey-80}",
+        "filePath": "./src/global/color/monochrome.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.grey-80}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "monochrome",
+          "item": "dark"
+        },
+        "path": {
+          "0": "color",
+          "1": "monochrome",
+          "2": "dark"
+        }
+      },
+      "darker": {
+        "value": "{color.palette.grey-90}",
+        "filePath": "./src/global/color/monochrome.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.grey-90}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "monochrome",
+          "item": "darker"
+        },
+        "path": {
+          "0": "color",
+          "1": "monochrome",
+          "2": "darker"
+        }
+      },
+      "black": {
+        "value": "#000000",
+        "filePath": "./src/global/color/monochrome.json",
+        "isSource": false,
+        "original": {
+          "value": "#000000"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "monochrome",
+          "item": "black"
+        },
+        "path": {
+          "0": "color",
+          "1": "monochrome",
+          "2": "black"
+        }
+      },
+      "white--rgb": {
+        "value": "#FFFFFF",
+        "modify": "rgb",
+        "filePath": "./src/global/color/monochrome.json",
+        "isSource": false,
+        "original": {
+          "value": "#FFFFFF",
+          "modify": "rgb"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "monochrome",
+          "item": "white--rgb"
+        },
+        "path": {
+          "0": "color",
+          "1": "monochrome",
+          "2": "white--rgb"
+        }
+      },
+      "lighter--rgb": {
+        "value": "{color.palette.grey-10}",
+        "modify": "rgb",
+        "filePath": "./src/global/color/monochrome.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.grey-10}",
+          "modify": "rgb"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "monochrome",
+          "item": "lighter--rgb"
+        },
+        "path": {
+          "0": "color",
+          "1": "monochrome",
+          "2": "lighter--rgb"
+        }
+      },
+      "light--rgb": {
+        "value": "{color.palette.grey-20}",
+        "modify": "rgb",
+        "filePath": "./src/global/color/monochrome.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.grey-20}",
+          "modify": "rgb"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "monochrome",
+          "item": "light--rgb"
+        },
+        "path": {
+          "0": "color",
+          "1": "monochrome",
+          "2": "light--rgb"
+        }
+      },
+      "medium--rgb": {
+        "value": "{color.palette.grey-60}",
+        "modify": "rgb",
+        "filePath": "./src/global/color/monochrome.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.grey-60}",
+          "modify": "rgb"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "monochrome",
+          "item": "medium--rgb"
+        },
+        "path": {
+          "0": "color",
+          "1": "monochrome",
+          "2": "medium--rgb"
+        }
+      },
+      "dark--rgb": {
+        "value": "{color.palette.grey-80}",
+        "modify": "rgb",
+        "filePath": "./src/global/color/monochrome.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.grey-80}",
+          "modify": "rgb"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "monochrome",
+          "item": "dark--rgb"
+        },
+        "path": {
+          "0": "color",
+          "1": "monochrome",
+          "2": "dark--rgb"
+        }
+      },
+      "darker--rgb": {
+        "value": "{color.palette.grey-90}",
+        "modify": "rgb",
+        "filePath": "./src/global/color/monochrome.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.grey-90}",
+          "modify": "rgb"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "monochrome",
+          "item": "darker--rgb"
+        },
+        "path": {
+          "0": "color",
+          "1": "monochrome",
+          "2": "darker--rgb"
+        }
+      },
+      "black--rgb": {
+        "value": "#000000",
+        "modify": "rgb",
+        "filePath": "./src/global/color/monochrome.json",
+        "isSource": false,
+        "original": {
+          "value": "#000000",
+          "modify": "rgb"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "monochrome",
+          "item": "black--rgb"
+        },
+        "path": {
+          "0": "color",
+          "1": "monochrome",
+          "2": "black--rgb"
+        }
+      }
+    },
+    "promotion": {
+      "sale": {
+        "lightest": {
+          "value": "{color.palette.red-10}",
+          "filePath": "./src/global/color/promotion.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.red-10}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "promotion",
+            "item": "sale",
+            "subitem": "lightest"
+          },
+          "path": {
+            "0": "color",
+            "1": "promotion",
+            "2": "sale",
+            "3": "lightest"
+          }
+        },
+        "lighter": {
+          "value": "{color.palette.red-30}",
+          "filePath": "./src/global/color/promotion.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.red-30}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "promotion",
+            "item": "sale",
+            "subitem": "lighter"
+          },
+          "path": {
+            "0": "color",
+            "1": "promotion",
+            "2": "sale",
+            "3": "lighter"
+          }
+        },
+        "light": {
+          "value": "{color.palette.red-50}",
+          "filePath": "./src/global/color/promotion.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.red-50}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "promotion",
+            "item": "sale",
+            "subitem": "light"
+          },
+          "path": {
+            "0": "color",
+            "1": "promotion",
+            "2": "sale",
+            "3": "light"
+          }
+        },
+        "base": {
+          "value": "{color.palette.red-60}",
+          "filePath": "./src/global/color/promotion.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.red-60}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "promotion",
+            "item": "sale",
+            "subitem": "base"
+          },
+          "path": {
+            "0": "color",
+            "1": "promotion",
+            "2": "sale",
+            "3": "base"
+          }
+        },
+        "dark": {
+          "value": "{color.palette.red-70}",
+          "filePath": "./src/global/color/promotion.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.red-70}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "promotion",
+            "item": "sale",
+            "subitem": "dark"
+          },
+          "path": {
+            "0": "color",
+            "1": "promotion",
+            "2": "sale",
+            "3": "dark"
+          }
+        },
+        "darker": {
+          "value": "{color.palette.red-80}",
+          "filePath": "./src/global/color/promotion.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.red-80}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "promotion",
+            "item": "sale",
+            "subitem": "darker"
+          },
+          "path": {
+            "0": "color",
+            "1": "promotion",
+            "2": "sale",
+            "3": "darker"
+          }
+        },
+        "darkest": {
+          "value": "{color.palette.red-90}",
+          "filePath": "./src/global/color/promotion.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.red-90}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "promotion",
+            "item": "sale",
+            "subitem": "darkest"
+          },
+          "path": {
+            "0": "color",
+            "1": "promotion",
+            "2": "sale",
+            "3": "darkest"
+          }
+        }
+      },
+      "new": {
+        "lightest": {
+          "value": "{color.palette.blue-10}",
+          "filePath": "./src/global/color/promotion.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.blue-10}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "promotion",
+            "item": "new",
+            "subitem": "lightest"
+          },
+          "path": {
+            "0": "color",
+            "1": "promotion",
+            "2": "new",
+            "3": "lightest"
+          }
+        },
+        "lighter": {
+          "value": "{color.palette.blue-30}",
+          "filePath": "./src/global/color/promotion.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.blue-30}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "promotion",
+            "item": "new",
+            "subitem": "lighter"
+          },
+          "path": {
+            "0": "color",
+            "1": "promotion",
+            "2": "new",
+            "3": "lighter"
+          }
+        },
+        "light": {
+          "value": "{color.palette.blue-50}",
+          "filePath": "./src/global/color/promotion.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.blue-50}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "promotion",
+            "item": "new",
+            "subitem": "light"
+          },
+          "path": {
+            "0": "color",
+            "1": "promotion",
+            "2": "new",
+            "3": "light"
+          }
+        },
+        "base": {
+          "value": "{color.palette.blue-60}",
+          "filePath": "./src/global/color/promotion.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.blue-60}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "promotion",
+            "item": "new",
+            "subitem": "base"
+          },
+          "path": {
+            "0": "color",
+            "1": "promotion",
+            "2": "new",
+            "3": "base"
+          }
+        },
+        "dark": {
+          "value": "{color.palette.blue-70}",
+          "filePath": "./src/global/color/promotion.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.blue-70}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "promotion",
+            "item": "new",
+            "subitem": "dark"
+          },
+          "path": {
+            "0": "color",
+            "1": "promotion",
+            "2": "new",
+            "3": "dark"
+          }
+        },
+        "darker": {
+          "value": "{color.palette.blue-80}",
+          "filePath": "./src/global/color/promotion.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.blue-80}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "promotion",
+            "item": "new",
+            "subitem": "darker"
+          },
+          "path": {
+            "0": "color",
+            "1": "promotion",
+            "2": "new",
+            "3": "darker"
+          }
+        },
+        "darkest": {
+          "value": "{color.palette.blue-90}",
+          "filePath": "./src/global/color/promotion.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.blue-90}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "promotion",
+            "item": "new",
+            "subitem": "darkest"
+          },
+          "path": {
+            "0": "color",
+            "1": "promotion",
+            "2": "new",
+            "3": "darkest"
+          }
+        }
+      }
+    },
+    "promotion-1": {
+      "base": {
+        "value": "{color.promotion.sale.base}",
+        "filePath": "./src/global/color/promotion.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.promotion.sale.base}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "promotion-1",
+          "item": "base"
+        },
+        "path": {
+          "0": "color",
+          "1": "promotion-1",
+          "2": "base"
+        }
+      },
+      "lightest": {
+        "value": "{color.promotion.sale.lightest}",
+        "filePath": "./src/global/color/promotion.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.promotion.sale.lightest}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "promotion-1",
+          "item": "lightest"
+        },
+        "path": {
+          "0": "color",
+          "1": "promotion-1",
+          "2": "lightest"
+        }
+      },
+      "lighter": {
+        "value": "{color.promotion.sale.lighter}",
+        "filePath": "./src/global/color/promotion.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.promotion.sale.lighter}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "promotion-1",
+          "item": "lighter"
+        },
+        "path": {
+          "0": "color",
+          "1": "promotion-1",
+          "2": "lighter"
+        }
+      },
+      "light": {
+        "value": "{color.promotion.sale.light}",
+        "filePath": "./src/global/color/promotion.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.promotion.sale.light}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "promotion-1",
+          "item": "light"
+        },
+        "path": {
+          "0": "color",
+          "1": "promotion-1",
+          "2": "light"
+        }
+      }
+    },
+    "promotion-2": {
+      "base": {
+        "value": "{color.promotion.new.base}",
+        "filePath": "./src/global/color/promotion.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.promotion.new.base}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "promotion-2",
+          "item": "base"
+        },
+        "path": {
+          "0": "color",
+          "1": "promotion-2",
+          "2": "base"
+        }
+      },
+      "lightest": {
+        "value": "{color.promotion.new.lightest}",
+        "filePath": "./src/global/color/promotion.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.promotion.new.lightest}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "promotion-2",
+          "item": "lightest"
+        },
+        "path": {
+          "0": "color",
+          "1": "promotion-2",
+          "2": "lightest"
+        }
+      },
+      "lighter": {
+        "value": "{color.promotion.new.lighter}",
+        "filePath": "./src/global/color/promotion.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.promotion.new.lighter}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "promotion-2",
+          "item": "lighter"
+        },
+        "path": {
+          "0": "color",
+          "1": "promotion-2",
+          "2": "lighter"
+        }
+      },
+      "light": {
+        "value": "{color.promotion.new.light}",
+        "filePath": "./src/global/color/promotion.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.promotion.new.light}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "promotion-2",
+          "item": "light"
+        },
+        "path": {
+          "0": "color",
+          "1": "promotion-2",
+          "2": "light"
+        }
+      }
+    },
+    "scheme": {
+      "light": {
+        "base": {
+          "value": "{color.monochrome.lighter}",
+          "filePath": "./src/global/color/scheme.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.monochrome.lighter}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "scheme",
+            "item": "light",
+            "subitem": "base"
+          },
+          "path": {
+            "0": "color",
+            "1": "scheme",
+            "2": "light",
+            "3": "base"
+          }
+        },
+        "highlight": {
+          "value": "{color.palette.white}",
+          "filePath": "./src/global/color/scheme.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.white}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "scheme",
+            "item": "light",
+            "subitem": "highlight"
+          },
+          "path": {
+            "0": "color",
+            "1": "scheme",
+            "2": "light",
+            "3": "highlight"
+          }
+        },
+        "on": {
+          "base": {
+            "value": "{color.monochrome.dark}",
+            "filePath": "./src/global/color/scheme.json",
+            "isSource": false,
+            "original": {
+              "value": "{color.monochrome.dark}"
+            },
+            "attributes": {
+              "category": "color",
+              "type": "scheme",
+              "item": "light",
+              "subitem": "on",
+              "state": "base"
+            },
+            "path": {
+              "0": "color",
+              "1": "scheme",
+              "2": "light",
+              "3": "on",
+              "4": "base"
+            }
+          },
+          "highlight": {
+            "value": "{color.palette.black}",
+            "filePath": "./src/global/color/scheme.json",
+            "isSource": false,
+            "original": {
+              "value": "{color.palette.black}"
+            },
+            "attributes": {
+              "category": "color",
+              "type": "scheme",
+              "item": "light",
+              "subitem": "on",
+              "state": "highlight"
+            },
+            "path": {
+              "0": "color",
+              "1": "scheme",
+              "2": "light",
+              "3": "on",
+              "4": "highlight"
+            }
+          }
+        }
+      },
+      "dark": {
+        "base": {
+          "value": "{color.monochrome.dark}",
+          "filePath": "./src/global/color/scheme.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.monochrome.dark}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "scheme",
+            "item": "dark",
+            "subitem": "base"
+          },
+          "path": {
+            "0": "color",
+            "1": "scheme",
+            "2": "dark",
+            "3": "base"
+          }
+        },
+        "highlight": {
+          "value": "{color.palette.black}",
+          "filePath": "./src/global/color/scheme.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.black}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "scheme",
+            "item": "dark",
+            "subitem": "highlight"
+          },
+          "path": {
+            "0": "color",
+            "1": "scheme",
+            "2": "dark",
+            "3": "highlight"
+          }
+        },
+        "on": {
+          "base": {
+            "value": "{color.palette.white}",
+            "filePath": "./src/global/color/scheme.json",
+            "isSource": false,
+            "original": {
+              "value": "{color.palette.white}"
+            },
+            "attributes": {
+              "category": "color",
+              "type": "scheme",
+              "item": "dark",
+              "subitem": "on",
+              "state": "base"
+            },
+            "path": {
+              "0": "color",
+              "1": "scheme",
+              "2": "dark",
+              "3": "on",
+              "4": "base"
+            }
+          },
+          "highlight": {
+            "value": "{color.palette.white}",
+            "filePath": "./src/global/color/scheme.json",
+            "isSource": false,
+            "original": {
+              "value": "{color.palette.white}"
+            },
+            "attributes": {
+              "category": "color",
+              "type": "scheme",
+              "item": "dark",
+              "subitem": "on",
+              "state": "highlight"
+            },
+            "path": {
+              "0": "color",
+              "1": "scheme",
+              "2": "dark",
+              "3": "on",
+              "4": "highlight"
+            }
+          }
+        }
+      },
+      "brand-1": {
+        "base": {
+          "value": "{color.palette.blue}",
+          "filePath": "./src/argos/color/scheme.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.palette.blue}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "scheme",
+            "item": "brand-1",
+            "subitem": "base"
+          },
+          "path": {
+            "0": "color",
+            "1": "scheme",
+            "2": "brand-1",
+            "3": "base"
+          }
+        },
+        "highlight": {
+          "value": "{color.palette.blue-dark}",
+          "filePath": "./src/argos/color/scheme.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.palette.blue-dark}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "scheme",
+            "item": "brand-1",
+            "subitem": "highlight"
+          },
+          "path": {
+            "0": "color",
+            "1": "scheme",
+            "2": "brand-1",
+            "3": "highlight"
+          }
+        },
+        "lowlight": {
+          "value": "{color.palette.brand-1-lowlight}",
+          "filePath": "./src/global/color/scheme.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.brand-1-lowlight}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "scheme",
+            "item": "brand-1",
+            "subitem": "lowlight"
+          },
+          "path": {
+            "0": "color",
+            "1": "scheme",
+            "2": "brand-1",
+            "3": "lowlight"
+          }
+        },
+        "on": {
+          "base": {
+            "value": "{color.palette.white}",
+            "filePath": "./src/argos/color/scheme.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.palette.white}"
+            },
+            "attributes": {
+              "category": "color",
+              "type": "scheme",
+              "item": "brand-1",
+              "subitem": "on",
+              "state": "base"
+            },
+            "path": {
+              "0": "color",
+              "1": "scheme",
+              "2": "brand-1",
+              "3": "on",
+              "4": "base"
+            }
+          },
+          "highlight": {
+            "value": "{color.palette.white}",
+            "filePath": "./src/argos/color/scheme.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.palette.white}"
+            },
+            "attributes": {
+              "category": "color",
+              "type": "scheme",
+              "item": "brand-1",
+              "subitem": "on",
+              "state": "highlight"
+            },
+            "path": {
+              "0": "color",
+              "1": "scheme",
+              "2": "brand-1",
+              "3": "on",
+              "4": "highlight"
+            }
+          },
+          "lowlight": {
+            "value": "{color.monochrome.lighter}",
+            "filePath": "./src/global/color/scheme.json",
+            "isSource": false,
+            "original": {
+              "value": "{color.monochrome.lighter}"
+            },
+            "attributes": {
+              "category": "color",
+              "type": "scheme",
+              "item": "brand-1",
+              "subitem": "on",
+              "state": "lowlight"
+            },
+            "path": {
+              "0": "color",
+              "1": "scheme",
+              "2": "brand-1",
+              "3": "on",
+              "4": "lowlight"
+            }
+          }
+        }
+      },
+      "brand-2": {
+        "base": {
+          "value": "{color.palette.red}",
+          "filePath": "./src/argos/color/scheme.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.palette.red}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "scheme",
+            "item": "brand-2",
+            "subitem": "base"
+          },
+          "path": {
+            "0": "color",
+            "1": "scheme",
+            "2": "brand-2",
+            "3": "base"
+          }
+        },
+        "highlight": {
+          "value": "{color.palette.red-dark}",
+          "filePath": "./src/argos/color/scheme.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.palette.red-dark}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "scheme",
+            "item": "brand-2",
+            "subitem": "highlight"
+          },
+          "path": {
+            "0": "color",
+            "1": "scheme",
+            "2": "brand-2",
+            "3": "highlight"
+          }
+        },
+        "lowlight": {
+          "value": "{color.palette.brand-2-lowlight}",
+          "filePath": "./src/global/color/scheme.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.brand-2-lowlight}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "scheme",
+            "item": "brand-2",
+            "subitem": "lowlight"
+          },
+          "path": {
+            "0": "color",
+            "1": "scheme",
+            "2": "brand-2",
+            "3": "lowlight"
+          }
+        },
+        "on": {
+          "base": {
+            "value": "{color.palette.white}",
+            "filePath": "./src/argos/color/scheme.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.palette.white}"
+            },
+            "attributes": {
+              "category": "color",
+              "type": "scheme",
+              "item": "brand-2",
+              "subitem": "on",
+              "state": "base"
+            },
+            "path": {
+              "0": "color",
+              "1": "scheme",
+              "2": "brand-2",
+              "3": "on",
+              "4": "base"
+            }
+          },
+          "highlight": {
+            "value": "{color.palette.white}",
+            "filePath": "./src/argos/color/scheme.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.palette.white}"
+            },
+            "attributes": {
+              "category": "color",
+              "type": "scheme",
+              "item": "brand-2",
+              "subitem": "on",
+              "state": "highlight"
+            },
+            "path": {
+              "0": "color",
+              "1": "scheme",
+              "2": "brand-2",
+              "3": "on",
+              "4": "highlight"
+            }
+          }
+        }
+      },
+      "brand-3": {
+        "base": {
+          "value": "{color.palette.green}",
+          "filePath": "./src/argos/color/scheme.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.palette.green}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "scheme",
+            "item": "brand-3",
+            "subitem": "base"
+          },
+          "path": {
+            "0": "color",
+            "1": "scheme",
+            "2": "brand-3",
+            "3": "base"
+          }
+        },
+        "highlight": {
+          "value": "{color.palette.green-dark}",
+          "filePath": "./src/argos/color/scheme.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.palette.green-dark}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "scheme",
+            "item": "brand-3",
+            "subitem": "highlight"
+          },
+          "path": {
+            "0": "color",
+            "1": "scheme",
+            "2": "brand-3",
+            "3": "highlight"
+          }
+        },
+        "on": {
+          "base": {
+            "value": "{color.palette.white}",
+            "filePath": "./src/argos/color/scheme.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.palette.white}"
+            },
+            "attributes": {
+              "category": "color",
+              "type": "scheme",
+              "item": "brand-3",
+              "subitem": "on",
+              "state": "base"
+            },
+            "path": {
+              "0": "color",
+              "1": "scheme",
+              "2": "brand-3",
+              "3": "on",
+              "4": "base"
+            }
+          },
+          "highlight": {
+            "value": "{color.palette.white}",
+            "filePath": "./src/argos/color/scheme.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.palette.white}"
+            },
+            "attributes": {
+              "category": "color",
+              "type": "scheme",
+              "item": "brand-3",
+              "subitem": "on",
+              "state": "highlight"
+            },
+            "path": {
+              "0": "color",
+              "1": "scheme",
+              "2": "brand-3",
+              "3": "on",
+              "4": "highlight"
+            }
+          }
+        }
+      }
+    },
+    "semantic": {
+      "error": {
+        "lighter": {
+          "value": "{color.palette.red-10}",
+          "filePath": "./src/global/color/semantic.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.red-10}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "semantic",
+            "item": "error",
+            "subitem": "lighter"
+          },
+          "path": {
+            "0": "color",
+            "1": "semantic",
+            "2": "error",
+            "3": "lighter"
+          }
+        },
+        "light": {
+          "value": "{color.palette.red-50}",
+          "filePath": "./src/global/color/semantic.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.red-50}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "semantic",
+            "item": "error",
+            "subitem": "light"
+          },
+          "path": {
+            "0": "color",
+            "1": "semantic",
+            "2": "error",
+            "3": "light"
+          }
+        },
+        "base": {
+          "value": "{color.palette.red-60}",
+          "filePath": "./src/global/color/semantic.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.red-60}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "semantic",
+            "item": "error",
+            "subitem": "base"
+          },
+          "path": {
+            "0": "color",
+            "1": "semantic",
+            "2": "error",
+            "3": "base"
+          }
+        },
+        "dark": {
+          "value": "{color.palette.red-70}",
+          "filePath": "./src/global/color/semantic.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.red-70}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "semantic",
+            "item": "error",
+            "subitem": "dark"
+          },
+          "path": {
+            "0": "color",
+            "1": "semantic",
+            "2": "error",
+            "3": "dark"
+          }
+        },
+        "darker": {
+          "value": "{color.palette.red-80}",
+          "filePath": "./src/global/color/semantic.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.red-80}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "semantic",
+            "item": "error",
+            "subitem": "darker"
+          },
+          "path": {
+            "0": "color",
+            "1": "semantic",
+            "2": "error",
+            "3": "darker"
+          }
+        },
+        "text": {
+          "value": "{color.semantic.error.base}",
+          "comment": "The default accessible text on the base value",
+          "filePath": "./src/argos/color/semantic.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.semantic.error.base}",
+            "comment": "The default accessible text on the base value"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "semantic",
+            "item": "error",
+            "subitem": "text"
+          },
+          "path": {
+            "0": "color",
+            "1": "semantic",
+            "2": "error",
+            "3": "text"
+          }
+        }
+      },
+      "info": {
+        "lighter": {
+          "value": "{color.palette.blue-10}",
+          "filePath": "./src/global/color/semantic.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.blue-10}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "semantic",
+            "item": "info",
+            "subitem": "lighter"
+          },
+          "path": {
+            "0": "color",
+            "1": "semantic",
+            "2": "info",
+            "3": "lighter"
+          }
+        },
+        "light": {
+          "value": "{color.palette.blue-50}",
+          "filePath": "./src/global/color/semantic.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.blue-50}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "semantic",
+            "item": "info",
+            "subitem": "light"
+          },
+          "path": {
+            "0": "color",
+            "1": "semantic",
+            "2": "info",
+            "3": "light"
+          }
+        },
+        "base": {
+          "value": "{color.palette.blue-60}",
+          "filePath": "./src/global/color/semantic.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.blue-60}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "semantic",
+            "item": "info",
+            "subitem": "base"
+          },
+          "path": {
+            "0": "color",
+            "1": "semantic",
+            "2": "info",
+            "3": "base"
+          }
+        },
+        "dark": {
+          "value": "{color.palette.blue-70}",
+          "filePath": "./src/global/color/semantic.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.blue-70}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "semantic",
+            "item": "info",
+            "subitem": "dark"
+          },
+          "path": {
+            "0": "color",
+            "1": "semantic",
+            "2": "info",
+            "3": "dark"
+          }
+        },
+        "darker": {
+          "value": "{color.palette.blue-80}",
+          "filePath": "./src/global/color/semantic.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.blue-80}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "semantic",
+            "item": "info",
+            "subitem": "darker"
+          },
+          "path": {
+            "0": "color",
+            "1": "semantic",
+            "2": "info",
+            "3": "darker"
+          }
+        },
+        "text": {
+          "value": "{color.semantic.info.base}",
+          "comment": "The default accessible text on the base value",
+          "filePath": "./src/argos/color/semantic.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.semantic.info.base}",
+            "comment": "The default accessible text on the base value"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "semantic",
+            "item": "info",
+            "subitem": "text"
+          },
+          "path": {
+            "0": "color",
+            "1": "semantic",
+            "2": "info",
+            "3": "text"
+          }
+        }
+      },
+      "success": {
+        "lighter": {
+          "value": "{color.palette.green-10}",
+          "filePath": "./src/global/color/semantic.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.green-10}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "semantic",
+            "item": "success",
+            "subitem": "lighter"
+          },
+          "path": {
+            "0": "color",
+            "1": "semantic",
+            "2": "success",
+            "3": "lighter"
+          }
+        },
+        "light": {
+          "value": "{color.palette.green-50}",
+          "filePath": "./src/global/color/semantic.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.green-50}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "semantic",
+            "item": "success",
+            "subitem": "light"
+          },
+          "path": {
+            "0": "color",
+            "1": "semantic",
+            "2": "success",
+            "3": "light"
+          }
+        },
+        "base": {
+          "value": "{color.palette.green-60}",
+          "filePath": "./src/global/color/semantic.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.green-60}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "semantic",
+            "item": "success",
+            "subitem": "base"
+          },
+          "path": {
+            "0": "color",
+            "1": "semantic",
+            "2": "success",
+            "3": "base"
+          }
+        },
+        "dark": {
+          "value": "{color.palette.green-70}",
+          "filePath": "./src/global/color/semantic.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.green-70}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "semantic",
+            "item": "success",
+            "subitem": "dark"
+          },
+          "path": {
+            "0": "color",
+            "1": "semantic",
+            "2": "success",
+            "3": "dark"
+          }
+        },
+        "darker": {
+          "value": "{color.palette.green-80}",
+          "filePath": "./src/global/color/semantic.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.green-80}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "semantic",
+            "item": "success",
+            "subitem": "darker"
+          },
+          "path": {
+            "0": "color",
+            "1": "semantic",
+            "2": "success",
+            "3": "darker"
+          }
+        },
+        "text": {
+          "value": "{color.semantic.success.base}",
+          "comment": "The default accessible text on the base value",
+          "filePath": "./src/argos/color/semantic.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.semantic.success.base}",
+            "comment": "The default accessible text on the base value"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "semantic",
+            "item": "success",
+            "subitem": "text"
+          },
+          "path": {
+            "0": "color",
+            "1": "semantic",
+            "2": "success",
+            "3": "text"
+          }
+        }
+      },
+      "warning": {
+        "lighter": {
+          "value": "{color.palette.yellow-10}",
+          "filePath": "./src/global/color/semantic.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.yellow-10}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "semantic",
+            "item": "warning",
+            "subitem": "lighter"
+          },
+          "path": {
+            "0": "color",
+            "1": "semantic",
+            "2": "warning",
+            "3": "lighter"
+          }
+        },
+        "light": {
+          "value": "{color.palette.yellow-50}",
+          "filePath": "./src/global/color/semantic.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.yellow-50}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "semantic",
+            "item": "warning",
+            "subitem": "light"
+          },
+          "path": {
+            "0": "color",
+            "1": "semantic",
+            "2": "warning",
+            "3": "light"
+          }
+        },
+        "base": {
+          "value": "{color.palette.yellow-60}",
+          "filePath": "./src/global/color/semantic.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.yellow-60}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "semantic",
+            "item": "warning",
+            "subitem": "base"
+          },
+          "path": {
+            "0": "color",
+            "1": "semantic",
+            "2": "warning",
+            "3": "base"
+          }
+        },
+        "dark": {
+          "value": "{color.palette.yellow-70}",
+          "filePath": "./src/global/color/semantic.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.yellow-70}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "semantic",
+            "item": "warning",
+            "subitem": "dark"
+          },
+          "path": {
+            "0": "color",
+            "1": "semantic",
+            "2": "warning",
+            "3": "dark"
+          }
+        },
+        "darker": {
+          "value": "{color.palette.yellow-80}",
+          "filePath": "./src/global/color/semantic.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.palette.yellow-80}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "semantic",
+            "item": "warning",
+            "subitem": "darker"
+          },
+          "path": {
+            "0": "color",
+            "1": "semantic",
+            "2": "warning",
+            "3": "darker"
+          }
+        },
+        "text": {
+          "value": "{color.monochrome.dark}",
+          "comment": "The default accessible text on the base value",
+          "filePath": "./src/global/color/semantic.json",
+          "isSource": false,
+          "original": {
+            "value": "{color.monochrome.dark}",
+            "comment": "The default accessible text on the base value"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "semantic",
+            "item": "warning",
+            "subitem": "text"
+          },
+          "path": {
+            "0": "color",
+            "1": "semantic",
+            "2": "warning",
+            "3": "text"
+          }
+        }
+      }
+    },
+    "transparency": {
+      "black": {
+        "value": "{color.palette.black}",
+        "modify": "rgb",
+        "alpha": "0.06",
+        "filePath": "./src/global/color/transparency.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.black}",
+          "modify": "rgb",
+          "alpha": "{opacity.background.value}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "transparency",
+          "item": "black"
+        },
+        "path": {
+          "0": "color",
+          "1": "transparency",
+          "2": "black"
+        }
+      },
+      "default": {
+        "value": "{color.palette.black}",
+        "modify": "rgb",
+        "alpha": "0.7",
+        "filePath": "./src/global/color/transparency.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.black}",
+          "modify": "rgb",
+          "alpha": "{opacity.default.value}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "transparency",
+          "item": "default"
+        },
+        "path": {
+          "0": "color",
+          "1": "transparency",
+          "2": "default"
+        }
+      },
+      "white": {
+        "value": "{color.palette.white}",
+        "modify": "rgb",
+        "alpha": "0.06",
+        "filePath": "./src/global/color/transparency.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.white}",
+          "modify": "rgb",
+          "alpha": "{opacity.background.value}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "transparency",
+          "item": "white"
+        },
+        "path": {
+          "0": "color",
+          "1": "transparency",
+          "2": "white"
+        }
+      },
+      "brand-1": {
+        "value": "{color.palette.brand-1}",
+        "modify": "rgb",
+        "alpha": "0.06",
+        "filePath": "./src/global/color/transparency.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.brand-1}",
+          "modify": "rgb",
+          "alpha": "{opacity.background.value}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "transparency",
+          "item": "brand-1"
+        },
+        "path": {
+          "0": "color",
+          "1": "transparency",
+          "2": "brand-1"
+        }
+      },
+      "brand-2": {
+        "value": "{color.palette.brand-2}",
+        "modify": "rgb",
+        "alpha": "0.7",
+        "filePath": "./src/global/color/transparency.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.brand-2}",
+          "modify": "rgb",
+          "alpha": "{opacity.default.value}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "transparency",
+          "item": "brand-2"
+        },
+        "path": {
+          "0": "color",
+          "1": "transparency",
+          "2": "brand-2"
+        }
+      },
+      "error": {
+        "value": "{color.semantic.error.base}",
+        "modify": "rgb",
+        "alpha": "0.06",
+        "filePath": "./src/global/color/transparency.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.semantic.error.base}",
+          "modify": "rgb",
+          "alpha": "{opacity.background.value}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "transparency",
+          "item": "error"
+        },
+        "path": {
+          "0": "color",
+          "1": "transparency",
+          "2": "error"
+        }
+      },
+      "info": {
+        "value": "{color.semantic.info.base}",
+        "modify": "rgb",
+        "alpha": "0.06",
+        "filePath": "./src/global/color/transparency.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.semantic.info.base}",
+          "modify": "rgb",
+          "alpha": "{opacity.background.value}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "transparency",
+          "item": "info"
+        },
+        "path": {
+          "0": "color",
+          "1": "transparency",
+          "2": "info"
+        }
+      },
+      "success": {
+        "value": "{color.semantic.success.base}",
+        "modify": "rgb",
+        "alpha": "0.06",
+        "filePath": "./src/global/color/transparency.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.semantic.success.base}",
+          "modify": "rgb",
+          "alpha": "{opacity.background.value}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "transparency",
+          "item": "success"
+        },
+        "path": {
+          "0": "color",
+          "1": "transparency",
+          "2": "success"
+        }
+      },
+      "warning": {
+        "value": "{color.semantic.warning.base}",
+        "modify": "rgb",
+        "alpha": "0.06",
+        "filePath": "./src/global/color/transparency.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.semantic.warning.base}",
+          "modify": "rgb",
+          "alpha": "{opacity.background.value}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "transparency",
+          "item": "warning"
+        },
+        "path": {
+          "0": "color",
+          "1": "transparency",
+          "2": "warning"
+        }
+      },
+      "medium": {
+        "value": "{color.monochrome.medium}",
+        "modify": "rgb",
+        "alpha": "0.06",
+        "filePath": "./src/global/color/transparency.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.monochrome.medium}",
+          "modify": "rgb",
+          "alpha": "{opacity.background.value}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "transparency",
+          "item": "medium"
+        },
+        "path": {
+          "0": "color",
+          "1": "transparency",
+          "2": "medium"
+        }
+      },
+      "dark": {
+        "value": "{color.monochrome.dark}",
+        "modify": "rgb",
+        "alpha": "0.06",
+        "filePath": "./src/global/color/transparency.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.monochrome.dark}",
+          "modify": "rgb",
+          "alpha": "{opacity.background.value}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "transparency",
+          "item": "dark"
+        },
+        "path": {
+          "0": "color",
+          "1": "transparency",
+          "2": "dark"
+        }
+      },
+      "darker": {
+        "value": "{color.monochrome.darker}",
+        "modify": "rgb",
+        "alpha": "0.06",
+        "filePath": "./src/global/color/transparency.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.monochrome.darker}",
+          "modify": "rgb",
+          "alpha": "{opacity.background.value}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "transparency",
+          "item": "darker"
+        },
+        "path": {
+          "0": "color",
+          "1": "transparency",
+          "2": "darker"
+        }
+      },
+      "tabs": {
+        "value": "{color.scheme.brand-1.base}",
+        "modify": "rgb",
+        "alpha": "0.06",
+        "filePath": "./src/global/color/transparency.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.scheme.brand-1.base}",
+          "modify": "rgb",
+          "alpha": "{opacity.background.value}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "transparency",
+          "item": "tabs"
+        },
+        "path": {
+          "0": "color",
+          "1": "transparency",
+          "2": "tabs"
+        }
+      }
+    },
+    "blue": {
+      "10": {
+        "value": "{color.palette.blue-10}",
+        "filePath": "./src/platforms/figma/global/blue.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.blue-10}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "blue",
+          "item": "10"
+        },
+        "path": {
+          "0": "color",
+          "1": "blue",
+          "2": "10"
+        }
+      },
+      "20": {
+        "value": "{color.palette.blue-20}",
+        "filePath": "./src/platforms/figma/global/blue.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.blue-20}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "blue",
+          "item": "20"
+        },
+        "path": {
+          "0": "color",
+          "1": "blue",
+          "2": "20"
+        }
+      },
+      "30": {
+        "value": "{color.palette.blue-30}",
+        "filePath": "./src/platforms/figma/global/blue.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.blue-30}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "blue",
+          "item": "30"
+        },
+        "path": {
+          "0": "color",
+          "1": "blue",
+          "2": "30"
+        }
+      },
+      "40": {
+        "value": "{color.palette.blue-40}",
+        "filePath": "./src/platforms/figma/global/blue.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.blue-40}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "blue",
+          "item": "40"
+        },
+        "path": {
+          "0": "color",
+          "1": "blue",
+          "2": "40"
+        }
+      },
+      "50": {
+        "value": "{color.palette.blue-50}",
+        "filePath": "./src/platforms/figma/global/blue.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.blue-50}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "blue",
+          "item": "50"
+        },
+        "path": {
+          "0": "color",
+          "1": "blue",
+          "2": "50"
+        }
+      },
+      "60": {
+        "value": "{color.palette.blue-60}",
+        "filePath": "./src/platforms/figma/global/blue.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.blue-60}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "blue",
+          "item": "60"
+        },
+        "path": {
+          "0": "color",
+          "1": "blue",
+          "2": "60"
+        }
+      },
+      "70": {
+        "value": "{color.palette.blue-70}",
+        "filePath": "./src/platforms/figma/global/blue.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.blue-70}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "blue",
+          "item": "70"
+        },
+        "path": {
+          "0": "color",
+          "1": "blue",
+          "2": "70"
+        }
+      },
+      "80": {
+        "value": "{color.palette.blue-80}",
+        "filePath": "./src/platforms/figma/global/blue.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.blue-80}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "blue",
+          "item": "80"
+        },
+        "path": {
+          "0": "color",
+          "1": "blue",
+          "2": "80"
+        }
+      },
+      "90": {
+        "value": "{color.palette.blue-90}",
+        "filePath": "./src/platforms/figma/global/blue.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.blue-90}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "blue",
+          "item": "90"
+        },
+        "path": {
+          "0": "color",
+          "1": "blue",
+          "2": "90"
+        }
+      },
+      "100": {
+        "value": "{color.palette.blue-100}",
+        "filePath": "./src/platforms/figma/global/blue.json",
+        "isSource": false,
+        "original": {
+          "value": "{color.palette.blue-100}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "blue",
+          "item": "100"
+        },
+        "path": {
+          "0": "color",
+          "1": "blue",
+          "2": "100"
+        }
+      }
+    },
+    "mode": {
+      "default": {
+        "surface": {
+          "background": {
+            "value": "{color.palette.white}",
+            "filePath": "./src/argos/color/mode.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.palette.white}"
+            },
+            "attributes": {
+              "category": "color",
+              "type": "mode",
+              "item": "default",
+              "subitem": "surface",
+              "state": "background"
+            },
+            "path": {
+              "0": "color",
+              "1": "mode",
+              "2": "default",
+              "3": "surface",
+              "4": "background"
+            }
+          },
+          "foreground": {
+            "value": "{color.palette.white}",
+            "filePath": "./src/argos/color/mode.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.palette.white}"
+            },
+            "attributes": {
+              "category": "color",
+              "type": "mode",
+              "item": "default",
+              "subitem": "surface",
+              "state": "foreground"
+            },
+            "path": {
+              "0": "color",
+              "1": "mode",
+              "2": "default",
+              "3": "surface",
+              "4": "foreground"
+            }
+          }
+        },
+        "border": {
+          "value": "{color.monochrome.medium}",
+          "filePath": "./src/argos/color/mode.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.monochrome.medium}"
+          },
+          "attributes": {
+            "category": "color",
+            "type": "mode",
+            "item": "default",
+            "subitem": "border"
+          },
+          "path": {
+            "0": "color",
+            "1": "mode",
+            "2": "default",
+            "3": "border"
+          }
+        },
+        "scheme": {
+          "base": {
+            "value": "{color.monochrome.darker}",
+            "filePath": "./src/argos/color/mode.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.monochrome.darker}"
+            },
+            "attributes": {
+              "category": "color",
+              "type": "mode",
+              "item": "default",
+              "subitem": "scheme",
+              "state": "base"
+            },
+            "path": {
+              "0": "color",
+              "1": "mode",
+              "2": "default",
+              "3": "scheme",
+              "4": "base"
+            }
+          },
+          "highlight": {
+            "value": "{color.palette.black}",
+            "filePath": "./src/argos/color/mode.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.palette.black}"
+            },
+            "attributes": {
+              "category": "color",
+              "type": "mode",
+              "item": "default",
+              "subitem": "scheme",
+              "state": "highlight"
+            },
+            "path": {
+              "0": "color",
+              "1": "mode",
+              "2": "default",
+              "3": "scheme",
+              "4": "highlight"
+            }
+          },
+          "on": {
+            "base": {
+              "value": "{color.palette.white}",
+              "filePath": "./src/argos/color/mode.json",
+              "isSource": true,
+              "original": {
+                "value": "{color.palette.white}"
+              },
+              "attributes": {
+                "category": "color",
+                "type": "mode",
+                "item": "default",
+                "subitem": "scheme",
+                "state": "on"
+              },
+              "path": {
+                "0": "color",
+                "1": "mode",
+                "2": "default",
+                "3": "scheme",
+                "4": "on",
+                "5": "base"
+              }
+            },
+            "highlight": {
+              "value": "{color.palette.white}",
+              "filePath": "./src/argos/color/mode.json",
+              "isSource": true,
+              "original": {
+                "value": "{color.palette.white}"
+              },
+              "attributes": {
+                "category": "color",
+                "type": "mode",
+                "item": "default",
+                "subitem": "scheme",
+                "state": "on"
+              },
+              "path": {
+                "0": "color",
+                "1": "mode",
+                "2": "default",
+                "3": "scheme",
+                "4": "on",
+                "5": "highlight"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -5237,6 +5237,450 @@
           "2": "light"
         }
       }
+    },
+    "dark-blue": {
+      "30": {
+        "value": "{color.palette.dark-blue-30}",
+        "filePath": "./src/platforms/figma/tu/dark-blue.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.dark-blue-30}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "dark-blue",
+          "item": "30"
+        },
+        "path": {
+          "0": "color",
+          "1": "dark-blue",
+          "2": "30"
+        }
+      },
+      "40": {
+        "value": "{color.palette.dark-blue-40}",
+        "filePath": "./src/platforms/figma/tu/dark-blue.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.dark-blue-40}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "dark-blue",
+          "item": "40"
+        },
+        "path": {
+          "0": "color",
+          "1": "dark-blue",
+          "2": "40"
+        }
+      },
+      "50": {
+        "value": "{color.palette.dark-blue-50}",
+        "filePath": "./src/platforms/figma/tu/dark-blue.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.dark-blue-50}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "dark-blue",
+          "item": "50"
+        },
+        "path": {
+          "0": "color",
+          "1": "dark-blue",
+          "2": "50"
+        }
+      },
+      "60": {
+        "value": "{color.palette.dark-blue-60}",
+        "filePath": "./src/platforms/figma/tu/dark-blue.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.dark-blue-60}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "dark-blue",
+          "item": "60"
+        },
+        "path": {
+          "0": "color",
+          "1": "dark-blue",
+          "2": "60"
+        }
+      }
+    },
+    "strong-blue": {
+      "30": {
+        "value": "{color.palette.strong-blue-30}",
+        "filePath": "./src/platforms/figma/tu/desaturated-blue.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.strong-blue-30}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "strong-blue",
+          "item": "30"
+        },
+        "path": {
+          "0": "color",
+          "1": "strong-blue",
+          "2": "30"
+        }
+      },
+      "40": {
+        "value": "{color.palette.strong-blue-40}",
+        "filePath": "./src/platforms/figma/tu/desaturated-blue.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.strong-blue-40}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "strong-blue",
+          "item": "40"
+        },
+        "path": {
+          "0": "color",
+          "1": "strong-blue",
+          "2": "40"
+        }
+      },
+      "50": {
+        "value": "{color.palette.strong-blue-50}",
+        "filePath": "./src/platforms/figma/tu/desaturated-blue.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.strong-blue-50}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "strong-blue",
+          "item": "50"
+        },
+        "path": {
+          "0": "color",
+          "1": "strong-blue",
+          "2": "50"
+        }
+      },
+      "60": {
+        "value": "{color.palette.strong-blue-60}",
+        "filePath": "./src/platforms/figma/tu/desaturated-blue.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.strong-blue-60}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "strong-blue",
+          "item": "60"
+        },
+        "path": {
+          "0": "color",
+          "1": "strong-blue",
+          "2": "60"
+        }
+      }
+    },
+    "faux-malachite": {
+      "30": {
+        "value": "{color.palette.faux-malachite-30}",
+        "filePath": "./src/platforms/figma/tu/desaturated-cyan.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.faux-malachite-30}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "faux-malachite",
+          "item": "30"
+        },
+        "path": {
+          "0": "color",
+          "1": "faux-malachite",
+          "2": "30"
+        }
+      },
+      "40": {
+        "value": "{color.palette.faux-malachite-40}",
+        "filePath": "./src/platforms/figma/tu/desaturated-cyan.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.faux-malachite-40}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "faux-malachite",
+          "item": "40"
+        },
+        "path": {
+          "0": "color",
+          "1": "faux-malachite",
+          "2": "40"
+        }
+      },
+      "50": {
+        "value": "{color.palette.faux-malachite-50}",
+        "filePath": "./src/platforms/figma/tu/desaturated-cyan.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.faux-malachite-50}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "faux-malachite",
+          "item": "50"
+        },
+        "path": {
+          "0": "color",
+          "1": "faux-malachite",
+          "2": "50"
+        }
+      },
+      "60": {
+        "value": "{color.palette.faux-malachite-60}",
+        "filePath": "./src/platforms/figma/tu/desaturated-cyan.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.faux-malachite-60}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "faux-malachite",
+          "item": "60"
+        },
+        "path": {
+          "0": "color",
+          "1": "faux-malachite",
+          "2": "60"
+        }
+      }
+    },
+    "pink": {
+      "30": {
+        "value": "{color.palette.pink-30}",
+        "filePath": "./src/platforms/figma/tu/pink.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.pink-30}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "pink",
+          "item": "30"
+        },
+        "path": {
+          "0": "color",
+          "1": "pink",
+          "2": "30"
+        }
+      },
+      "40": {
+        "value": "{color.palette.pink-40}",
+        "filePath": "./src/platforms/figma/tu/pink.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.pink-40}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "pink",
+          "item": "40"
+        },
+        "path": {
+          "0": "color",
+          "1": "pink",
+          "2": "40"
+        }
+      },
+      "50": {
+        "value": "{color.palette.pink-50}",
+        "filePath": "./src/platforms/figma/tu/pink.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.pink-50}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "pink",
+          "item": "50"
+        },
+        "path": {
+          "0": "color",
+          "1": "pink",
+          "2": "50"
+        }
+      },
+      "60": {
+        "value": "{color.palette.pink-60}",
+        "filePath": "./src/platforms/figma/tu/pink.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.pink-60}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "pink",
+          "item": "60"
+        },
+        "path": {
+          "0": "color",
+          "1": "pink",
+          "2": "60"
+        }
+      }
+    },
+    "selective-yellow": {
+      "30": {
+        "value": "{color.palette.selective-yellow-30}",
+        "filePath": "./src/platforms/figma/tu/selective-yellow.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.selective-yellow-30}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "selective-yellow",
+          "item": "30"
+        },
+        "path": {
+          "0": "color",
+          "1": "selective-yellow",
+          "2": "30"
+        }
+      },
+      "40": {
+        "value": "{color.palette.selective-yellow-40}",
+        "filePath": "./src/platforms/figma/tu/selective-yellow.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.selective-yellow-40}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "selective-yellow",
+          "item": "40"
+        },
+        "path": {
+          "0": "color",
+          "1": "selective-yellow",
+          "2": "40"
+        }
+      },
+      "50": {
+        "value": "{color.palette.selective-yellow-50}",
+        "filePath": "./src/platforms/figma/tu/selective-yellow.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.selective-yellow-50}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "selective-yellow",
+          "item": "50"
+        },
+        "path": {
+          "0": "color",
+          "1": "selective-yellow",
+          "2": "50"
+        }
+      },
+      "60": {
+        "value": "{color.palette.selective-yellow-60}",
+        "filePath": "./src/platforms/figma/tu/selective-yellow.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.selective-yellow-60}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "selective-yellow",
+          "item": "60"
+        },
+        "path": {
+          "0": "color",
+          "1": "selective-yellow",
+          "2": "60"
+        }
+      }
+    },
+    "soft-red": {
+      "30": {
+        "value": "{color.palette.soft-red-30}",
+        "filePath": "./src/platforms/figma/tu/soft-red.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.soft-red-30}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "soft-red",
+          "item": "30"
+        },
+        "path": {
+          "0": "color",
+          "1": "soft-red",
+          "2": "30"
+        }
+      },
+      "40": {
+        "value": "{color.palette.soft-red-40}",
+        "filePath": "./src/platforms/figma/tu/soft-red.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.soft-red-40}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "soft-red",
+          "item": "40"
+        },
+        "path": {
+          "0": "color",
+          "1": "soft-red",
+          "2": "40"
+        }
+      },
+      "50": {
+        "value": "{color.palette.soft-red-50}",
+        "filePath": "./src/platforms/figma/tu/soft-red.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.soft-red-50}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "soft-red",
+          "item": "50"
+        },
+        "path": {
+          "0": "color",
+          "1": "soft-red",
+          "2": "50"
+        }
+      },
+      "60": {
+        "value": "{color.palette.soft-red-60}",
+        "filePath": "./src/platforms/figma/tu/soft-red.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.soft-red-60}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "soft-red",
+          "item": "60"
+        },
+        "path": {
+          "0": "color",
+          "1": "soft-red",
+          "2": "60"
+        }
+      }
     }
   }
 }

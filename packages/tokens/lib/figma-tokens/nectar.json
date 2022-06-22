@@ -1,6 +1,186 @@
 {
   "color": {
     "palette": {
+      "10": {
+        "value": "{color.palette.purple-10}",
+        "filePath": "./src/platforms/figma/nectar/purple.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.purple-10}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "10"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "10"
+        }
+      },
+      "20": {
+        "value": "{color.palette.purple-20}",
+        "filePath": "./src/platforms/figma/nectar/purple.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.purple-20}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "20"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "20"
+        }
+      },
+      "30": {
+        "value": "{color.palette.purple-30}",
+        "filePath": "./src/platforms/figma/nectar/purple.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.purple-30}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "30"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "30"
+        }
+      },
+      "40": {
+        "value": "{color.palette.purple-40}",
+        "filePath": "./src/platforms/figma/nectar/purple.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.purple-40}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "40"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "40"
+        }
+      },
+      "50": {
+        "value": "{color.palette.purple-50}",
+        "filePath": "./src/platforms/figma/nectar/purple.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.purple-50}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "50"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "50"
+        }
+      },
+      "60": {
+        "value": "{color.palette.purple-60}",
+        "filePath": "./src/platforms/figma/nectar/purple.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.purple-60}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "60"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "60"
+        }
+      },
+      "70": {
+        "value": "{color.palette.purple-70}",
+        "filePath": "./src/platforms/figma/nectar/purple.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.purple-70}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "70"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "70"
+        }
+      },
+      "80": {
+        "value": "{color.palette.purple-80}",
+        "filePath": "./src/platforms/figma/nectar/purple.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.purple-80}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "80"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "80"
+        }
+      },
+      "90": {
+        "value": "{color.palette.purple-90}",
+        "filePath": "./src/platforms/figma/nectar/purple.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.purple-90}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "90"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "90"
+        }
+      },
+      "100": {
+        "value": "{color.palette.purple-100}",
+        "filePath": "./src/platforms/figma/nectar/purple.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.purple-100}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "palette",
+          "item": "100"
+        },
+        "path": {
+          "0": "color",
+          "1": "palette",
+          "2": "100"
+        }
+      },
       "black": {
         "value": "#000000",
         "filePath": "./src/global/color/black.json",
@@ -5254,6 +5434,26 @@
           "0": "color",
           "1": "brand-4",
           "2": "darkest"
+        }
+      }
+    },
+    "putty": {
+      "60": {
+        "value": "{color.palette.putty-60}",
+        "filePath": "./src/platforms/figma/nectar/putty.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.palette.putty-60}"
+        },
+        "attributes": {
+          "category": "color",
+          "type": "putty",
+          "item": "60"
+        },
+        "path": {
+          "0": "color",
+          "1": "putty",
+          "2": "60"
         }
       }
     }

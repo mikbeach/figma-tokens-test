@@ -3592,11 +3592,11 @@
     },
     "green": {
       "10": {
-        "value": "#EAF2EB",
+        "value": "{color.palette.green-10}",
         "filePath": "./src/platforms/figma/global/green.json",
         "isSource": false,
         "original": {
-          "value": "#EAF2EB"
+          "value": "{color.palette.green-10}"
         },
         "attributes": {
           "category": "color",
@@ -3610,11 +3610,11 @@
         }
       },
       "20": {
-        "value": "#C5DBC6",
+        "value": "{color.palette.green-20}",
         "filePath": "./src/platforms/figma/global/green.json",
         "isSource": false,
         "original": {
-          "value": "#C5DBC6"
+          "value": "{color.palette.green-20}"
         },
         "attributes": {
           "category": "color",
@@ -3628,11 +3628,11 @@
         }
       },
       "30": {
-        "value": "#9FC3A1",
+        "value": "{color.palette.green-30}",
         "filePath": "./src/platforms/figma/global/green.json",
         "isSource": false,
         "original": {
-          "value": "#9FC3A1"
+          "value": "{color.palette.green-30}"
         },
         "attributes": {
           "category": "color",
@@ -3646,11 +3646,11 @@
         }
       },
       "40": {
-        "value": "#79AC7C",
+        "value": "{color.palette.green-40}",
         "filePath": "./src/platforms/figma/global/green.json",
         "isSource": false,
         "original": {
-          "value": "#79AC7C"
+          "value": "{color.palette.green-40}"
         },
         "attributes": {
           "category": "color",
@@ -3664,11 +3664,11 @@
         }
       },
       "50": {
-        "value": "#549457",
+        "value": "{color.palette.green-50}",
         "filePath": "./src/platforms/figma/global/green.json",
         "isSource": false,
         "original": {
-          "value": "#549457"
+          "value": "{color.palette.green-50}"
         },
         "attributes": {
           "category": "color",
@@ -3682,11 +3682,11 @@
         }
       },
       "60": {
-        "value": "#2E7D32",
+        "value": "{color.palette.green-60}",
         "filePath": "./src/platforms/figma/global/green.json",
         "isSource": false,
         "original": {
-          "value": "#2E7D32"
+          "value": "{color.palette.green-60}"
         },
         "attributes": {
           "category": "color",
@@ -3700,11 +3700,11 @@
         }
       },
       "70": {
-        "value": "#296F2C",
+        "value": "{color.palette.green-70}",
         "filePath": "./src/platforms/figma/global/green.json",
         "isSource": false,
         "original": {
-          "value": "#296F2C"
+          "value": "{color.palette.green-70}"
         },
         "attributes": {
           "category": "color",
@@ -3718,11 +3718,11 @@
         }
       },
       "80": {
-        "value": "#246127",
+        "value": "{color.palette.green-80}",
         "filePath": "./src/platforms/figma/global/green.json",
         "isSource": false,
         "original": {
-          "value": "#246127"
+          "value": "{color.palette.green-80}"
         },
         "attributes": {
           "category": "color",
@@ -3736,11 +3736,11 @@
         }
       },
       "90": {
-        "value": "#1F5321",
+        "value": "{color.palette.green-90}",
         "filePath": "./src/platforms/figma/global/green.json",
         "isSource": false,
         "original": {
-          "value": "#1F5321"
+          "value": "{color.palette.green-90}"
         },
         "attributes": {
           "category": "color",
@@ -3754,11 +3754,11 @@
         }
       },
       "100": {
-        "value": "#19451C",
+        "value": "{color.palette.green-100}",
         "filePath": "./src/platforms/figma/global/green.json",
         "isSource": false,
         "original": {
-          "value": "#19451C"
+          "value": "{color.palette.green-100}"
         },
         "attributes": {
           "category": "color",
@@ -3774,11 +3774,11 @@
     },
     "grey": {
       "10": {
-        "value": "#F2F2F2",
+        "value": "{color.palette.grey-10}",
         "filePath": "./src/platforms/figma/global/grey.json",
         "isSource": false,
         "original": {
-          "value": "#F2F2F2"
+          "value": "{color.palette.grey-10}"
         },
         "attributes": {
           "category": "color",
@@ -3792,11 +3792,11 @@
         }
       },
       "20": {
-        "value": "#D8D8D8",
+        "value": "{color.palette.grey-20}",
         "filePath": "./src/platforms/figma/global/grey.json",
         "isSource": false,
         "original": {
-          "value": "#D8D8D8"
+          "value": "{color.palette.grey-20}"
         },
         "attributes": {
           "category": "color",
@@ -3810,11 +3810,11 @@
         }
       },
       "30": {
-        "value": "#BFBFBF",
+        "value": "{color.palette.grey-30}",
         "filePath": "./src/platforms/figma/global/grey.json",
         "isSource": false,
         "original": {
-          "value": "#BFBFBF"
+          "value": "{color.palette.grey-30}"
         },
         "attributes": {
           "category": "color",
@@ -3828,11 +3828,11 @@
         }
       },
       "40": {
-        "value": "#A6A6A6",
+        "value": "{color.palette.grey-40}",
         "filePath": "./src/platforms/figma/global/grey.json",
         "isSource": false,
         "original": {
-          "value": "#A6A6A6"
+          "value": "{color.palette.grey-40}"
         },
         "attributes": {
           "category": "color",
@@ -3846,11 +3846,11 @@
         }
       },
       "50": {
-        "value": "#8C8C8C",
+        "value": "{color.palette.grey-50}",
         "filePath": "./src/platforms/figma/global/grey.json",
         "isSource": false,
         "original": {
-          "value": "#8C8C8C"
+          "value": "{color.palette.grey-50}"
         },
         "attributes": {
           "category": "color",
@@ -3864,11 +3864,11 @@
         }
       },
       "60": {
-        "value": "#737373",
+        "value": "{color.palette.grey-60}",
         "filePath": "./src/platforms/figma/global/grey.json",
         "isSource": false,
         "original": {
-          "value": "#737373"
+          "value": "{color.palette.grey-60}"
         },
         "attributes": {
           "category": "color",
@@ -3882,11 +3882,11 @@
         }
       },
       "70": {
-        "value": "#595959",
+        "value": "{color.palette.grey-70}",
         "filePath": "./src/platforms/figma/global/grey.json",
         "isSource": false,
         "original": {
-          "value": "#595959"
+          "value": "{color.palette.grey-70}"
         },
         "attributes": {
           "category": "color",
@@ -3900,11 +3900,11 @@
         }
       },
       "80": {
-        "value": "#404040",
+        "value": "{color.palette.grey-80}",
         "filePath": "./src/platforms/figma/global/grey.json",
         "isSource": false,
         "original": {
-          "value": "#404040"
+          "value": "{color.palette.grey-80}"
         },
         "attributes": {
           "category": "color",
@@ -3918,11 +3918,11 @@
         }
       },
       "90": {
-        "value": "#262626",
+        "value": "{color.palette.grey-90}",
         "filePath": "./src/platforms/figma/global/grey.json",
         "isSource": false,
         "original": {
-          "value": "#262626"
+          "value": "{color.palette.grey-90}"
         },
         "attributes": {
           "category": "color",
@@ -3936,11 +3936,11 @@
         }
       },
       "100": {
-        "value": "#0D0D0D",
+        "value": "{color.palette.grey-100}",
         "filePath": "./src/platforms/figma/global/grey.json",
         "isSource": false,
         "original": {
-          "value": "#0D0D0D"
+          "value": "{color.palette.grey-100}"
         },
         "attributes": {
           "category": "color",
@@ -3956,11 +3956,11 @@
     },
     "red": {
       "10": {
-        "value": "#FBE6E6",
+        "value": "{color.palette.red-10}",
         "filePath": "./src/platforms/figma/global/red.json",
         "isSource": false,
         "original": {
-          "value": "#FBE6E6"
+          "value": "{color.palette.red-10}"
         },
         "attributes": {
           "category": "color",
@@ -3974,11 +3974,11 @@
         }
       },
       "20": {
-        "value": "#F3B8B8",
+        "value": "{color.palette.red-20}",
         "filePath": "./src/platforms/figma/global/red.json",
         "isSource": false,
         "original": {
-          "value": "#F3B8B8"
+          "value": "{color.palette.red-20}"
         },
         "attributes": {
           "category": "color",
@@ -3992,11 +3992,11 @@
         }
       },
       "30": {
-        "value": "#EC8A8A",
+        "value": "{color.palette.red-30}",
         "filePath": "./src/platforms/figma/global/red.json",
         "isSource": false,
         "original": {
-          "value": "#EC8A8A"
+          "value": "{color.palette.red-30}"
         },
         "attributes": {
           "category": "color",
@@ -4010,11 +4010,11 @@
         }
       },
       "40": {
-        "value": "#E45C5C",
+        "value": "{color.palette.red-40}",
         "filePath": "./src/platforms/figma/global/red.json",
         "isSource": false,
         "original": {
-          "value": "#E45C5C"
+          "value": "{color.palette.red-40}"
         },
         "attributes": {
           "category": "color",
@@ -4028,11 +4028,11 @@
         }
       },
       "50": {
-        "value": "#DD2E2E",
+        "value": "{color.palette.red-50}",
         "filePath": "./src/platforms/figma/global/red.json",
         "isSource": false,
         "original": {
-          "value": "#DD2E2E"
+          "value": "{color.palette.red-50}"
         },
         "attributes": {
           "category": "color",
@@ -4046,11 +4046,11 @@
         }
       },
       "60": {
-        "value": "#D50000",
+        "value": "{color.palette.red-60}",
         "filePath": "./src/platforms/figma/global/red.json",
         "isSource": false,
         "original": {
-          "value": "#D50000"
+          "value": "{color.palette.red-60}"
         },
         "attributes": {
           "category": "color",
@@ -4064,11 +4064,11 @@
         }
       },
       "70": {
-        "value": "#BD0000",
+        "value": "{color.palette.red-70}",
         "filePath": "./src/platforms/figma/global/red.json",
         "isSource": false,
         "original": {
-          "value": "#BD0000"
+          "value": "{color.palette.red-70}"
         },
         "attributes": {
           "category": "color",
@@ -4082,11 +4082,11 @@
         }
       },
       "80": {
-        "value": "#A50000",
+        "value": "{color.palette.red-80}",
         "filePath": "./src/platforms/figma/global/red.json",
         "isSource": false,
         "original": {
-          "value": "#A50000"
+          "value": "{color.palette.red-80}"
         },
         "attributes": {
           "category": "color",
@@ -4100,11 +4100,11 @@
         }
       },
       "90": {
-        "value": "#8D0000",
+        "value": "{color.palette.red-90}",
         "filePath": "./src/platforms/figma/global/red.json",
         "isSource": false,
         "original": {
-          "value": "#8D0000"
+          "value": "{color.palette.red-90}"
         },
         "attributes": {
           "category": "color",
@@ -4118,11 +4118,11 @@
         }
       },
       "100": {
-        "value": "#750000",
+        "value": "{color.palette.red-100}",
         "filePath": "./src/platforms/figma/global/red.json",
         "isSource": false,
         "original": {
-          "value": "#750000"
+          "value": "{color.palette.red-100}"
         },
         "attributes": {
           "category": "color",
@@ -4138,11 +4138,11 @@
     },
     "yellow": {
       "10": {
-        "value": "#FFFBE6",
+        "value": "{color.palette.yellow-10}",
         "filePath": "./src/platforms/figma/global/yellow.json",
         "isSource": false,
         "original": {
-          "value": "#FFFBE6"
+          "value": "{color.palette.yellow-10}"
         },
         "attributes": {
           "category": "color",
@@ -4156,11 +4156,11 @@
         }
       },
       "20": {
-        "value": "#FFF4B8",
+        "value": "{color.palette.yellow-20}",
         "filePath": "./src/platforms/figma/global/yellow.json",
         "isSource": false,
         "original": {
-          "value": "#FFF4B8"
+          "value": "{color.palette.yellow-20}"
         },
         "attributes": {
           "category": "color",
@@ -4174,11 +4174,11 @@
         }
       },
       "30": {
-        "value": "#FFEC8A",
+        "value": "{color.palette.yellow-30}",
         "filePath": "./src/platforms/figma/global/yellow.json",
         "isSource": false,
         "original": {
-          "value": "#FFEC8A"
+          "value": "{color.palette.yellow-30}"
         },
         "attributes": {
           "category": "color",
@@ -4192,11 +4192,11 @@
         }
       },
       "40": {
-        "value": "#FFE55C",
+        "value": "{color.palette.yellow-40}",
         "filePath": "./src/platforms/figma/global/yellow.json",
         "isSource": false,
         "original": {
-          "value": "#FFE55C"
+          "value": "{color.palette.yellow-40}"
         },
         "attributes": {
           "category": "color",
@@ -4210,11 +4210,11 @@
         }
       },
       "50": {
-        "value": "#FFDD2E",
+        "value": "{color.palette.yellow-50}",
         "filePath": "./src/platforms/figma/global/yellow.json",
         "isSource": false,
         "original": {
-          "value": "#FFDD2E"
+          "value": "{color.palette.yellow-50}"
         },
         "attributes": {
           "category": "color",
@@ -4228,11 +4228,11 @@
         }
       },
       "60": {
-        "value": "#FFD600",
+        "value": "{color.palette.yellow-60}",
         "filePath": "./src/platforms/figma/global/yellow.json",
         "isSource": false,
         "original": {
-          "value": "#FFD600"
+          "value": "{color.palette.yellow-60}"
         },
         "attributes": {
           "category": "color",
@@ -4246,11 +4246,11 @@
         }
       },
       "70": {
-        "value": "#E2BE00",
+        "value": "{color.palette.yellow-70}",
         "filePath": "./src/platforms/figma/global/yellow.json",
         "isSource": false,
         "original": {
-          "value": "#E2BE00"
+          "value": "{color.palette.yellow-70}"
         },
         "attributes": {
           "category": "color",
@@ -4264,11 +4264,11 @@
         }
       },
       "80": {
-        "value": "#C6A600",
+        "value": "{color.palette.yellow-80}",
         "filePath": "./src/platforms/figma/global/yellow.json",
         "isSource": false,
         "original": {
-          "value": "#C6A600"
+          "value": "{color.palette.yellow-80}"
         },
         "attributes": {
           "category": "color",
@@ -4282,11 +4282,11 @@
         }
       },
       "90": {
-        "value": "#A98E00",
+        "value": "{color.palette.yellow-90}",
         "filePath": "./src/platforms/figma/global/yellow.json",
         "isSource": false,
         "original": {
-          "value": "#A98E00"
+          "value": "{color.palette.yellow-90}"
         },
         "attributes": {
           "category": "color",
@@ -4300,11 +4300,11 @@
         }
       },
       "100": {
-        "value": "#8C7600",
+        "value": "{color.palette.yellow-100}",
         "filePath": "./src/platforms/figma/global/yellow.json",
         "isSource": false,
         "original": {
-          "value": "#8C7600"
+          "value": "{color.palette.yellow-100}"
         },
         "attributes": {
           "category": "color",
